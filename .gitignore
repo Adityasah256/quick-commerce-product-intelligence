@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+.vscode/
+.env
+
+# Ignore generated files except sample dataset
+data/raw/*
+data/processed/*
+
+!data/raw/milk_products.json
+!data/processed/milk_products.csv
