@@ -178,8 +178,22 @@ def handle_response(response):
 
                 seen_ids.add(pid)
 
-                record = {
+                rating_data = item["data"].get("rating", {})
 
+                rating = (
+                    rating_data
+                    .get("bar", {})
+                    .get("value")
+                )
+
+                rating_count = (
+                    rating_data
+                    .get("bar", {})
+                    .get("title", {})
+                    .get("text")
+                )
+
+                record = {
                     "platform": "Blinkit",
 
                     "search_keyword": SEARCH_TERM,
@@ -218,11 +232,11 @@ def handle_response(response):
                         "merchant_id"
                     ),
 
-                    "rating": item["data"].get(
-                        "rating"
-                    )
+                    "rating": rating,
 
-                }
+                    "rating_count": rating_count
+
+            }
 
                 all_products.append(
                     record
