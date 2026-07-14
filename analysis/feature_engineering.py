@@ -8,47 +8,47 @@ from pathlib import Path
 INPUT_PATH = Path("data/processed/milk_products.csv")
 OUTPUT_PATH = Path("data/final/analytics_dataset.csv")
 
-df = pd.read_csv(INPUT_PATH)
 
-# discount_percent
+# =====================================
+# Load Dataset
+# =====================================
 
-df["discount_percent"] = (
-    (df["mrp"] - df["price"]) / df["mrp"] * 100
-).round(2)
+def load_data() -> pd.DataFrame:
+    """
+    Load the processed dataset.
+    """
+    return pd.read_csv(INPUT_PATH)
 
-df["discount_percent"] = df["discount_percent"].fillna(0)
 
-# savings
+# =====================================
+# Helper Functions
+# =====================================
 
-df["savings"] = df["mrp"] - df["price"]
+def inventory_bucket(inventory: int) -> str:
+    """Categorize inventory into Low, Medium, or High."""
 
-# Inventory Bycket
-
-def inventory_bucket(x):
-    if x <= 5:
+    if inventory <= 5:
         return "Low"
-    elif x <= 20:
+    elif inventory <= 20:
         return "Medium"
     else:
         return "High"
 
-df["inventory_bucket"] = df["inventory"].apply(inventory_bucket)
 
-# Stock Status
+def stock_status(inventory: int) -> str:
+    """Categorize stock availability."""
 
-def stock_status(x):
-    if x == 0:
+    if inventory == 0:
         return "Out of Stock"
-    elif x <= 5:
+    elif inventory <= 5:
         return "Low Stock"
     else:
         return "In Stock"
 
-df["stock_status"] = df["inventory"].apply(stock_status)
 
-# Price Segment
+def price_segment(price: float) -> str:
+    """Categorize products by price."""
 
-def price_segment(price):
     if price < 50:
         return "Budget"
     elif price < 150:
@@ -56,11 +56,10 @@ def price_segment(price):
     else:
         return "Premium"
 
-df["price_segment"] = df["price"].apply(price_segment)
 
-# Rating Bucket
+def rating_bucket(rating: float) -> str:
+    """Categorize product ratings."""
 
-def rating_bucket(rating):
     if rating < 3.5:
         return "Poor"
     elif rating < 4.5:
@@ -68,18 +67,93 @@ def rating_bucket(rating):
     else:
         return "Excellent"
 
-df["rating_bucket"] = df["rating"].apply(rating_bucket)
 
-# Value Score (Custom KPI)
+# =====================================
+# Feature Engineering
+# =====================================
 
-df["value_score"] = (
-    df["rating"] * 20
-    + df["discount_percent"] * 2
-    - df["price"] * 0.05
-).round(2)
+def engineer_features(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Create engineered features for product analytics.
+    """
 
-# Saving the analytics dataset:
+    # Discount Percentage
 
-df.to_csv(OUTPUT_PATH, index=False)
+    df["discount_percent"] = (
+        (df["mrp"] - df["price"]) / df["mrp"] * 100
+    ).round(2)
 
-print(f"Analytics dataset saved to {OUTPUT_PATH}")
+    df["discount_percent"] = df["discount_percent"].fillna(0)
+
+    # Savings
+
+    df["savings"] = df["mrp"] - df["price"]
+
+    # Inventory
+
+    df["inventory_bucket"] = df["inventory"].apply(
+        inventory_bucket
+    )
+
+    # Stock Status
+
+    df["stock_status"] = df["inventory"].apply(
+        stock_status
+    )
+
+    # Price Segment
+
+    df["price_segment"] = df["price"].apply(
+        price_segment
+    )
+
+    # Rating Bucket
+
+    df["rating_bucket"] = df["rating"].apply(
+        rating_bucket
+    )
+
+    # Value Score (Custom KPI)
+
+    df["value_score"] = (
+        df["rating"] * 20
+        + df["discount_percent"] * 2
+        - df["price"] * 0.05
+    ).round(2)
+
+    return df
+
+
+# =====================================
+# Save Dataset
+# =====================================
+
+def save_dataset(df: pd.DataFrame) -> None:
+    """
+    Save the analytics dataset.
+    """
+
+    df.to_csv(
+        OUTPUT_PATH,
+        index=False
+    )
+
+    print(f"Analytics dataset saved to {OUTPUT_PATH}")
+
+
+# =====================================
+# Main
+# =====================================
+
+def main():
+
+    df = load_data()
+
+    df = engineer_features(df)
+
+    save_dataset(df)
+
+
+if __name__ == "__main__":
+
+    main()    
