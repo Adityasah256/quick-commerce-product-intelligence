@@ -1,0 +1,145 @@
+
+======================================================================
+QUICK COMMERCE PRODUCT ANALYTICS REPORT
+======================================================================
+
+EXECUTIVE SUMMARY
+
+Total Products      : 365
+Total Brands        : 94
+Average Price       : ₹104.10
+Average Rating      : 4.36
+Average Discount    : 9.47%
+Average Inventory   : 7.15
+======================================================================
+
+======================================================================
+TOP BRANDS
+======================================================================
+                      Products  Avg_Price Avg_Rating
+brand                                               
+Freshbury                   27      46.19        N/A
+Amul                        23      73.13       4.56
+Milky Mist                  15      92.93       4.64
+Akshayakalpa Organic        13      77.00       4.51
+Cavin's                     11      47.00        4.5
+Heritage                     8      65.50       4.53
+So Good                      8     182.88       4.05
+Sofit                        8     110.88       4.39
+English Oven                 7      56.43       4.47
+Amul Kool                    7      32.86       4.55
+
+======================================================================
+PRICING ANALYSIS
+======================================================================
+Average Price      : ₹104.10
+Median Price       : ₹65.00
+Minimum Price      : ₹8.00
+Maximum Price      : ₹1090.00
+
+Most Expensive Products
+
+                                               product_name             brand  price
+               Protinex Milk Drink (Creamy Vanilla Flavour)          Protinex   1090
+                        Fidelo Bilona Hand Churned Cow Ghee            Fidelo    949
+                                    Ensure Adult Milk Drink            Ensure    641
+               Nestle Nan Lo Lac Infant Formula Milk Powder Nestle Nan Lo Lac    620
+              Mevano 7nuts 10+ years Protein Milk Drink Mix            Mevano    599
+        Mevano 7nuts 3-10 years Kids Protein Milk Drink Mix            Mevano    599
+Only Earth Unsweetened Plant Based Oat Beverage - Pack of 2        Only Earth    523
+                              137 Degrees Almond Milk Drink       137 Degrees    475
+            XLR8 More Than Milk Ultra Filtered Skimmed Milk              XLR8    475
+                      Amezo Black Pepper Gouda Cheese Block             Amezo    475
+
+======================================================================
+INVENTORY ANALYSIS
+======================================================================
+
+Inventory Bucket Distribution
+
+inventory_bucket
+Low       235
+Medium    103
+High       27
+
+Highest Inventory Products
+
+                                        product_name  inventory
+                              Amul Lactose Free Milk         50
+Heritage Special Long Life Milk (90 Days Shelf Life)         50
+                                        Onion (Pyaz)         50
+                                       Potato (Aloo)         50
+                                  Nandini Pouch Curd         50
+                           Green Chilli (Hari Mirch)         50
+                   Amul Taaza Toned Milk - Pack of 2         50
+                         Nandini Goodlife Toned Milk         50
+                    Amul Probiotic High Protein Curd         45
+                                   Milky Mist Paneer         41
+
+======================================================================
+CUSTOMER INSIGHTS
+======================================================================
+
+Highest Rated Products
+
+                                                                        product_name            brand  rating
+                                            Smoodh Hazelnut Chocolate Flavoured Milk           Smoodh    4.95
+                                           Kelifta Milk Kefir Starter Culture Powder          Kelifta    4.93
+                                                             Milky Mist Cheese Cubes       Milky Mist    4.86
+                                                            Milky Mist Cheese Slices       Milky Mist    4.82
+                                                    Maggi Creamy Coconut Milk Powder            Maggi    4.81
+                                                      Nestle Everyday Dairy Whitener  Nestle Everyday    4.81
+                                                          Amulspray Baby Milk Powder        Amulspray    4.79
+                                                               Amulya Dairy Whitener           Amulya    4.78
+Nestle Lactogrow Nutritious Kids Milk Drink (Biscuity Vanilla Flavour (2 - 6 years)) Nestle Lactogrow    4.76
+                                         Milky Mist Pizza Mozzarella Shredded Cheese       Milky Mist    4.75
+
+Rating Distribution
+
+rating_bucket
+Excellent    218
+Good         138
+Poor           9
+
+======================================================================
+VALUE ANALYSIS
+======================================================================
+
+Top Discounted Products
+
+                             product_name  discount_percent  savings
+Kelifta Milk Kefir Starter Culture Powder             43.00      301
+      Cavin's Chocolate Milkshake (1 Ltr)             40.42       97
+ Suhana Health Turmeric Latte Milk Premix             37.85       67
+      Whole Farm Premium Red Chilli Whole             36.00       27
+           Gowardhan Classic Block Paneer             34.62       45
+                    Sofit Almond Beverage             33.44      100
+        Fidelo Almond Drink (Unsweetened)             32.68      116
+   Epigamia Almond Beverage (Unsweetened)             32.00       24
+          Awsum Better Bakes Banana Bread             30.00       45
+                 Milky Mist Cheese Slices             29.38       47
+
+Best Value Products
+
+                             product_name        brand  value_score
+Kelifta Milk Kefir Starter Culture Powder      Kelifta       164.65
+      Cavin's Chocolate Milkshake (1 Ltr)      Cavin's       163.29
+      Whole Farm Premium Red Chilli Whole   Whole Farm       162.80
+           Gowardhan Classic Block Paneer    Gowardhan       155.19
+                 Milky Mist Cheese Slices   Milky Mist       149.51
+   Epigamia Almond Beverage (Unsweetened)     Epigamia       143.85
+                    Sofit Almond Beverage        Sofit       138.73
+ Suhana Health Turmeric Latte Milk Premix       Suhana       137.20
+          Awsum Better Bakes Banana Bread        Awsum       136.35
+                Mother Dairy Malai Paneer Mother Dairy       133.78
+
+======================================================================
+BUSINESS RECOMMENDATIONS
+======================================================================
+• Freshbury has the largest product assortment.
+• Mid Range products dominate the catalogue.
+• Highest product rating observed is 4.95.
+• Average discount across products is 9.47%.
+• Consider tracking daily price movements for competitive intelligence.
+• Build a Power BI dashboard for pricing, assortment and inventory monitoring.
+======================================================================

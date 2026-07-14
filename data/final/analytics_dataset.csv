@@ -1,0 +1,366 @@
+platform,search_keyword,rank,scraped_at,product_id,product_name,brand,price,mrp,unit,inventory,merchant_id,rating,rating_count,discount_percent,savings,inventory_bucket,stock_status,price_segment,rating_bucket,value_score
+Blinkit,milk,1,2026-07-13T05:12:52.273193,641570,Amul Gold Premium Full Cream Milk,Amul,90,90,1 ltr,4,45631,4.179999828,"3,981",0.0,0,Low,Low Stock,Mid Range,Good,79.1
+Blinkit,milk,2,2026-07-13T05:12:52.273556,37083,Nandini Toned Milk,Nandini,24,24,500 ml,12,45631,4.559999943,1 lac,0.0,0,Medium,In Stock,Budget,Excellent,90.0
+Blinkit,milk,3,2026-07-13T05:12:52.273709,309921,Nandini Shubham Pasteurised Standardized Toned Milk,Nandini,27,27,500 ml,12,45631,4.53000021,1.2 lac,0.0,0,Medium,In Stock,Budget,Excellent,89.25
+Blinkit,milk,4,2026-07-13T05:12:52.273823,127081,Heritage Daily Health Toned Milk,Heritage,27,27,500 ml,12,45631,4.599999905,"96,337",0.0,0,Medium,In Stock,Budget,Excellent,90.65
+Blinkit,milk,5,2026-07-13T05:12:52.273943,720182,Akshayakalpa Organic High Protein Cow Milk,Akshayakalpa Organic,95,100,250 ml,2,45631,3.890000105,325,5.0,5,Low,Low Stock,Mid Range,Good,83.05
+Blinkit,milk,6,2026-07-13T05:12:52.274162,542051,Akshayakalpa Organic A2 Cow Milk (Pasteurized),Akshayakalpa Organic,47,47,500 ml,12,45631,4.539999962,"6,635",0.0,0,Medium,In Stock,Budget,Excellent,88.45
+Blinkit,milk,7,2026-07-13T05:12:52.274313,179137,Heritage Special Long Life Milk (90 Days Shelf Life),Heritage,32,33,450 ml,50,45631,4.619999886,"24,253",3.03,1,High,In Stock,Budget,Excellent,96.86
+Blinkit,milk,8,2026-07-13T05:12:52.274506,176,Amul Taaza Homogenised Toned Milk,Amul,77,77,1 ltr,41,45631,4.71999979,1.3 lac,0.0,0,High,In Stock,Mid Range,Excellent,90.55
+Blinkit,milk,9,2026-07-13T05:12:52.274666,478885,Akshayakalpa Organic Cow Milk (Pasteurized),Akshayakalpa Organic,45,45,500 ml,8,45631,,,0.0,0,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,10,2026-07-13T05:12:52.274829,281456,Arokya Toned Milk,Arokya,26,26,500 ml,7,45631,4.559999943,"16,426",0.0,0,Medium,In Stock,Budget,Excellent,89.9
+Blinkit,milk,11,2026-07-13T05:12:52.274940,206314,Amul Lactose Free Milk,Amul,26,26,250 ml,50,45631,4.710000038,"75,810",0.0,0,High,In Stock,Budget,Excellent,92.9
+Blinkit,milk,12,2026-07-13T05:12:52.275088,309894,Nandini Goodlife Toned Milk,Nandini Goodlife,36,36,500 ml,50,45631,4.739999771,"39,013",0.0,0,High,In Stock,Budget,Excellent,93.0
+Blinkit,milk,13,2026-07-13T05:12:52.557181,478884,Akshayakalpa Organic Amrutha Organic Farm Fresh A2 Milk,Akshayakalpa Organic,53,53,500 ml,9,45631,4.630000114,"6,393",0.0,0,Medium,In Stock,Mid Range,Excellent,89.95
+Blinkit,milk,14,2026-07-13T05:12:52.557413,163703,Arokya Full Cream Milk,Arokya,36,36,500 ml,10,45631,4.650000095,"30,509",0.0,0,Medium,In Stock,Budget,Excellent,91.2
+Blinkit,milk,15,2026-07-13T05:12:52.557550,478882,Akshayakalpa Organic Farm Fresh Cow Milk,Akshayakalpa Organic,47,47,500 ml,12,45631,4.630000114,"1,917",0.0,0,Medium,In Stock,Budget,Excellent,90.25
+Blinkit,milk,16,2026-07-13T05:12:52.557663,34778,Amul Moti Toned Milk (90 Days Shelf Life),Amul,30,30,450 ml,16,45631,4.5,1.4 lac,0.0,0,Medium,In Stock,Budget,Excellent,88.5
+Blinkit,milk,17,2026-07-13T05:12:52.557749,740912,Fidelo Bilona Hand Churned Cow Ghee,Fidelo,949,1249,1 ltr,1,45631,,,24.02,300,Low,Low Stock,Premium,Excellent,
+Blinkit,milk,18,2026-07-13T05:12:52.557812,12872,Amul Gold Full Cream Milk,Amul,34,34,500 ml,12,45631,4.670000076,14 lac,0.0,0,Medium,In Stock,Budget,Excellent,91.7
+Blinkit,milk,19,2026-07-13T05:12:52.557882,179,Amul Gold Milk,Amul,83,83,1 ltr,36,45631,4.699999809,"90,019",0.0,0,High,In Stock,Mid Range,Excellent,89.85
+Blinkit,milk,20,2026-07-13T05:12:52.558001,485113,Amul Taaza Toned Milk - Pack of 2,Amul,34,34,2 x 200 ml,50,45631,4.679999828,1.5 lac,0.0,0,High,In Stock,Budget,Excellent,91.9
+Blinkit,milk,21,2026-07-13T05:12:52.558172,19512,Amul Taaza Toned Milk,Amul,29,29,500 ml,9,45631,4.619999886,8.8 lac,0.0,0,Medium,In Stock,Budget,Excellent,90.95
+Blinkit,milk,22,2026-07-13T05:12:52.558277,177181,Amul Slim 'n' Trim Skimmed Milk (Zero Cholesterol),Amul,85,85,1 ltr,33,45631,4.650000095,"19,419",0.0,0,High,In Stock,Mid Range,Excellent,88.75
+Blinkit,milk,23,2026-07-13T05:12:52.558377,678441,Sids Farm Toned Milk,Sids Farm,36,36,500 ml,5,45631,3.730000019,"2,962",0.0,0,Low,Low Stock,Budget,Good,72.8
+Blinkit,milk,24,2026-07-13T05:12:52.558442,734812,Heritage Nourish+ Toned Milk,Heritage,29,30,500 ml,5,45631,4.329999924,"1,059",3.33,1,Low,Low Stock,Budget,Good,91.81
+Blinkit,milk,25,2026-07-13T05:12:57.056210,518553,Sids Farm Buffalo A2 Milk,Sids Farm,60,60,500 ml,9,45631,4.190000057,"10,391",0.0,0,Medium,In Stock,Mid Range,Good,80.8
+Blinkit,milk,26,2026-07-13T05:12:57.056495,74690,Nestle a+ Slim Skimmed Milk,Nestle a+,95,99,1 ltr,3,45631,4.409999847,"6,513",4.04,4,Low,Low Stock,Mid Range,Good,91.53
+Blinkit,milk,27,2026-07-13T05:12:57.056751,547189,Amul Calci+ Calcium Rich High Protein Milk,Amul,26,26,250 ml,17,45631,4.46999979,"6,347",0.0,0,Medium,In Stock,Budget,Good,88.1
+Blinkit,milk,28,2026-07-13T05:12:57.056903,516948,Milky Mist Toned Milk,Milky Mist,90,90,1 ltr,7,45631,4.510000229,657,0.0,0,Medium,In Stock,Mid Range,Excellent,85.7
+Blinkit,milk,29,2026-07-13T05:12:57.057028,516951,Milky Mist UHT Sterilized Lactose Free Toned Milk,Milky Mist,30,35,250 ml,12,45631,4.579999924,611,14.29,5,Medium,In Stock,Budget,Excellent,118.68
+Blinkit,milk,30,2026-07-13T05:12:57.057154,516949,Milky Mist Double Toned Milk,Milky Mist,80,80,1 ltr,2,45631,4.5,428,0.0,0,Low,Low Stock,Mid Range,Excellent,86.0
+Blinkit,milk,31,2026-07-13T05:12:57.057333,32685,Mother Dairy Toned Milk,Mother Dairy,77,77,1 ltr,4,45631,4.570000172,"9,619",0.0,0,Low,Low Stock,Mid Range,Excellent,87.55
+Blinkit,milk,32,2026-07-13T05:12:57.057431,758963,XLR8 More Than Milk Ultra Filtered Skimmed Milk,XLR8,475,480,6 x 250 ml,2,45631,,,1.04,5,Low,Low Stock,Premium,Excellent,
+Blinkit,milk,33,2026-07-13T05:12:57.057534,617807,Amulspray Ready to Feed Infant Formula,Amulspray,25,25,250 ml,3,45631,4.300000191,640,0.0,0,Low,Low Stock,Budget,Good,84.75
+Blinkit,milk,34,2026-07-13T05:12:57.057652,793108,Country Delight 25 g High Protein Chocolate Milk,Country Delight,122,129,250 ml,1,45631,,,5.43,7,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,35,2026-07-13T05:12:57.057969,793109,Country Delight 25 g High Protein Vanilla Milk,Country Delight,122,129,250 ml,1,45631,,,5.43,7,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,36,2026-07-13T05:12:57.058074,3471,Yakult Probiotic Drink,Yakult,90,90,5 x 65 ml,4,45631,4.75,"41,515",0.0,0,Low,Low Stock,Mid Range,Excellent,90.5
+Blinkit,milk,37,2026-07-13T05:12:59.573442,382243,Yakult Light Probiotic Drink,Yakult,100,100,5 x 65 ml,3,45631,4.679999828,"14,424",0.0,0,Low,Low Stock,Mid Range,Excellent,88.6
+Blinkit,milk,38,2026-07-13T05:12:59.574216,29550,Hommade Coconut Milk,Hommade,81,89,200 ml,17,45631,4.670000076,"20,938",8.99,8,Medium,In Stock,Mid Range,Excellent,107.33
+Blinkit,milk,39,2026-07-13T05:12:59.574366,735542,Heritage Nourish+ High Protein Paneer,Heritage,135,150,240 g,1,45631,4.190000057,388,10.0,15,Low,Low Stock,Mid Range,Good,97.05
+Blinkit,milk,40,2026-07-13T05:12:59.574607,518713,Akshayakalpa Organic Spiced Salted Buttermilk,Akshayakalpa Organic,18,18,200 ml,17,45631,4.46999979,"3,535",0.0,0,Medium,In Stock,Budget,Good,88.5
+Blinkit,milk,41,2026-07-13T05:12:59.574678,518714,Akshayakalpa Organic Unsalted Buttermilk,Akshayakalpa Organic,18,18,180 ml,8,45631,4.5,"3,973",0.0,0,Medium,In Stock,Budget,Excellent,89.1
+Blinkit,milk,42,2026-07-13T05:12:59.574750,541786,Nestle Milkmaid Mini Sweetened Liquid Condensed Milk,Nestle Milkmaid,84,84,190 g,19,45631,4.730000019,"22,235",0.0,0,Medium,In Stock,Mid Range,Excellent,90.4
+Blinkit,milk,43,2026-07-13T05:12:59.574948,647391,Health on Plants Organic Classic Tofu,Health on Plants,140,140,200 g,8,45631,4.28000021,291,0.0,0,Medium,In Stock,Mid Range,Good,78.6
+Blinkit,milk,44,2026-07-13T05:12:59.592225,26164,Amul Mithai Mate Condensed Milk,Amul Mithai Mate,68,68,200 g,8,45631,4.710000038,"26,145",0.0,0,Medium,In Stock,Mid Range,Excellent,90.8
+Blinkit,milk,45,2026-07-13T05:12:59.593645,477837,Raw Pressery Plain & Unsweetened Almond Beverage,Raw Pressery,246,289,1 ltr,11,45631,4.0,"3,183",14.88,43,Medium,In Stock,Premium,Good,97.46
+Blinkit,milk,46,2026-07-13T05:12:59.594007,488040,Urban Platter Unsweetened Coconut Milk,Urban Platter,136,140,250 ml,3,45631,4.389999866,"1,933",2.86,4,Low,Low Stock,Mid Range,Good,86.72
+Blinkit,milk,47,2026-07-13T05:12:59.594209,19135,Amul Kool Cafe Milk 'n' Coffee Flavoured Milk (Can),Amul Kool Cafe,35,35,200 ml,10,45631,4.550000191,"21,444",0.0,0,Medium,In Stock,Budget,Excellent,89.25
+Blinkit,milk,48,2026-07-13T05:12:59.594609,288400,So Good Natural Unsweetened Almond Beverage,So Good,67,67,200 ml,9,45631,4.400000095,"6,354",0.0,0,Medium,In Stock,Mid Range,Good,84.65
+Blinkit,milk,49,2026-07-13T05:13:02.066392,19504,Amul Kool Badam Flavoured Milk,Amul Kool,25,25,180 ml,12,45631,4.570000172,"31,732",0.0,0,Medium,In Stock,Budget,Excellent,90.15
+Blinkit,milk,50,2026-07-13T05:13:02.066802,10491,Nestle Milkmaid Partly Skimmed Sweetened Condensed Milk,Nestle Milkmaid,140,149,380 g,4,45631,4.730000019,"13,300",6.04,9,Low,Low Stock,Mid Range,Excellent,99.68
+Blinkit,milk,51,2026-07-13T05:13:02.067009,82337,Real Thai Unsweetened Coconut Milk,Real Thai,150,150,250 ml,4,45631,4.539999962,"2,207",0.0,0,Low,Low Stock,Premium,Excellent,83.3
+Blinkit,milk,52,2026-07-13T05:13:02.067174,304062,So Good Unsweetened Almond Beverage,So Good,241,267,1 ltr,6,45631,4.380000114,"4,047",9.74,26,Medium,In Stock,Premium,Good,95.03
+Blinkit,milk,53,2026-07-13T05:13:02.067326,41995,Amulspray Baby Milk Powder,Amulspray,263,263,500 g,3,45631,4.679999828,"15,773",0.0,0,Low,Low Stock,Premium,Excellent,80.45
+Blinkit,milk,54,2026-07-13T05:13:02.067542,526845,Smoodh Chocolate Dairy Based Flavoured Milk (Pet Bottle),Smoodh,19,20,150 ml,19,45631,4.579999924,"16,304",5.0,1,Medium,In Stock,Budget,Excellent,100.65
+Blinkit,milk,55,2026-07-13T05:13:02.067761,488348,Alt Co Oat Beverage,Alt Co,66,69,180 ml,2,45631,4.300000191,974,4.35,3,Low,Low Stock,Mid Range,Good,91.4
+Blinkit,milk,56,2026-07-13T05:13:02.068296,532539,Alt Co Almond Beverage Unsweetened,Alt Co,227,266,1 ltr,2,45631,4.260000229,975,14.66,39,Low,Low Stock,Premium,Good,103.17
+Blinkit,milk,57,2026-07-13T05:13:02.069347,341598,Amul Kool Cafe Milk 'n' Coffee Flavoured Milk,Amul Kool Cafe,30,30,200 ml,11,45631,4.610000134,"23,079",0.0,0,Medium,In Stock,Budget,Excellent,90.7
+Blinkit,milk,58,2026-07-13T05:13:02.069632,481042,Nandini Goodlife Masala Salted Buttermilk,Nandini Goodlife,15,15,180 ml,5,45631,4.53000021,"1,087",0.0,0,Low,Low Stock,Budget,Excellent,89.85
+Blinkit,milk,59,2026-07-13T05:13:04.658198,618979,Dancing Cow Plant Based Oat Beverage,Dancing Cow,235,266,1 ltr,8,45631,4.260000229,717,11.65,31,Medium,In Stock,Premium,Good,96.75
+Blinkit,milk,60,2026-07-13T05:13:04.658654,548060,Smoodh Chocolate Hazelnut Flavoured Milk (Pet Bottle),Smoodh,19,20,150 ml,6,45631,4.630000114,"12,222",5.0,1,Medium,In Stock,Budget,Excellent,101.65
+Blinkit,milk,61,2026-07-13T05:13:04.658923,288399,So Good Vanilla Almond Beverage,So Good,67,67,200 ml,1,45631,4.059999943,"1,902",0.0,0,Low,Low Stock,Mid Range,Good,77.85
+Blinkit,milk,62,2026-07-13T05:13:04.659134,69633,Amul Kool Badam Milkshake,Amul Kool,40,40,200 ml,7,45631,4.579999924,"15,356",0.0,0,Medium,In Stock,Budget,Excellent,89.6
+Blinkit,milk,63,2026-07-13T05:13:04.659257,627797,Cavin's Rabdi Milkshake,Cavin's,54,60,170 ml,3,45631,4.510000229,672,10.0,6,Low,Low Stock,Mid Range,Excellent,107.5
+Blinkit,milk,64,2026-07-13T05:13:04.659328,352432,Amul Premium Spiced Salted Buttermilk,Amul,20,20,200 ml,20,45631,4.510000229,"6,722",0.0,0,Medium,In Stock,Budget,Excellent,89.2
+Blinkit,milk,65,2026-07-13T05:13:04.659809,482314,"Urban Platter Unsweetened Almond Beverage (Lactose-Free, Plant-Based / Vegan / Milk Alternative)",Urban Platter,238,250,1 ltr,3,45631,4.230000019,"1,745",4.8,12,Low,Low Stock,Premium,Good,82.3
+Blinkit,milk,66,2026-07-13T05:13:04.660129,16727,Cavin's Strawberry Milkshake,Cavin's,38,40,180 ml,11,45631,4.630000114,"4,950",5.0,2,Medium,In Stock,Budget,Excellent,100.7
+Blinkit,milk,67,2026-07-13T05:13:04.660275,627818,Cavin's Belgian Chocolate Milkshake,Cavin's,38,40,170 ml,5,45631,4.480000019,"1,288",5.0,2,Low,Low Stock,Budget,Good,97.7
+Blinkit,milk,68,2026-07-13T05:13:04.660383,445424,So Good Natural Unsweetened Soy Beverage,So Good,129,135,1 ltr,2,45631,4.25,"3,656",4.44,6,Low,Low Stock,Mid Range,Good,87.43
+Blinkit,milk,69,2026-07-13T05:13:04.660495,647653,Health on Plants Smoked Tofu,Health on Plants,185,185,200 g,3,45631,4.360000134,27,0.0,0,Low,Low Stock,Premium,Good,77.95
+Blinkit,milk,70,2026-07-13T05:13:04.660685,753992,Amul Sweetened Condensed Milk Classic,Amul,80,80,210 g,5,45631,4.679999828,"1,381",0.0,0,Low,Low Stock,Mid Range,Excellent,89.6
+Blinkit,milk,71,2026-07-13T05:13:07.187559,10708,Sofit Chocolate Soy Beverage,Sofit,37,40,180 ml,3,45631,4.550000191,"3,199",7.5,3,Low,Low Stock,Budget,Excellent,104.15
+Blinkit,milk,72,2026-07-13T05:13:07.192793,10492,Amul Mithai Mate Condensed Milk,Amul Mithai Mate,130,130,400 g,6,45631,4.75,"9,374",0.0,0,Medium,In Stock,Mid Range,Excellent,88.5
+Blinkit,milk,73,2026-07-13T05:13:07.195458,66330,Maggi Creamy Coconut Milk Powder,Maggi,149,149,100 g,1,45631,4.809999943,437,0.0,0,Low,Low Stock,Mid Range,Excellent,88.75
+Blinkit,milk,74,2026-07-13T05:13:07.196225,759984,Only Earth Unsweetened Plant Based Oat Beverage - Pack of 2,Only Earth,523,598,2 x 1 ltr,1,45631,4.289999962,"1,129",12.54,75,Low,Low Stock,Premium,Good,84.73
+Blinkit,milk,75,2026-07-13T05:13:07.196611,184,Sofit Chocolate Flavoured Soy Beverage,Sofit,145,155,1 ltr,2,45631,4.369999886,"3,645",6.45,10,Low,Low Stock,Mid Range,Good,93.05
+Blinkit,milk,76,2026-07-13T05:13:07.197091,381957,Cavin's Masala Chaas / Salted Buttermilk,Cavin's,20,20,180 ml,12,45631,4.28000021,"6,565",0.0,0,Medium,In Stock,Budget,Good,84.6
+Blinkit,milk,77,2026-07-13T05:13:07.198644,548061,Smoodh Toffee Caramel Flavoured Milk (Pet Bottle),Smoodh,19,20,150 ml,6,45631,4.650000095,"7,071",5.0,1,Medium,In Stock,Budget,Excellent,102.05
+Blinkit,milk,78,2026-07-13T05:13:07.198826,183,"Sofit Natural Soy Beverage (Sugar Free, Vegan)",Sofit,145,155,1 ltr,11,45631,4.380000114,"5,630",6.45,10,Medium,In Stock,Mid Range,Good,93.25
+Blinkit,milk,79,2026-07-13T05:13:07.199640,3456,Sofit Vanilla Soy Beverage,Sofit,34,37,180 ml,3,45631,4.570000172,"1,506",8.11,3,Low,Low Stock,Budget,Excellent,105.92
+Blinkit,milk,80,2026-07-13T05:13:07.203395,480079,Alt Co Oat Beverage Drink,Alt Co,240,266,1 ltr,4,45631,3.940000057,"1,499",9.77,26,Low,Low Stock,Premium,Good,86.34
+Blinkit,milk,81,2026-07-13T05:13:07.203602,304578,Amul Kool Classic Latte Flavoured Milk,Amul Kool,40,40,200 ml,3,45631,4.570000172,"12,315",0.0,0,Low,Low Stock,Budget,Excellent,89.4
+Blinkit,milk,82,2026-07-13T05:13:07.203712,107775,Amul Kool Mango Milkshake,Amul Kool,30,30,200 ml,1,45631,4.429999828,"5,238",0.0,0,Low,Low Stock,Budget,Good,87.1
+Blinkit,milk,83,2026-07-13T05:13:09.728447,627801,Cavin's Badam Milkshake,Cavin's,54,60,170 ml,3,45631,4.539999962,472,10.0,6,Low,Low Stock,Mid Range,Excellent,108.1
+Blinkit,milk,84,2026-07-13T05:13:09.728717,382244,Hershey's Chocolate Flavour Milkshake - Pack of 2,Hershey's,71,80,2 x 180 ml,8,45631,4.300000191,"10,667",11.25,9,Medium,In Stock,Mid Range,Good,104.95
+Blinkit,milk,85,2026-07-13T05:13:09.728927,516690,So Good Unsweetened Plant Based Oat Beverage,So Good,235,267,1 ltr,2,45631,4.159999847,"2,538",11.99,32,Low,Low Stock,Premium,Good,95.43
+Blinkit,milk,86,2026-07-13T05:13:09.729078,19503,Amul Kool Koko Chocolate Flavoured Milk,Amul Kool,35,35,200 ml,5,45631,4.539999962,"12,450",0.0,0,Low,Low Stock,Budget,Excellent,89.05
+Blinkit,milk,87,2026-07-13T05:13:09.729159,402721,Amul Kool Rose Flavoured Milk,Amul Kool,30,30,180 ml,5,45631,4.610000134,"9,916",0.0,0,Low,Low Stock,Budget,Excellent,90.7
+Blinkit,milk,88,2026-07-13T05:13:09.729218,483816,Nestle Milo RTD Malt Drink with Millets - Pack of 2,Nestle Milo,81,90,2 x 180 ml,3,45631,4.46999979,"3,697",10.0,9,Low,Low Stock,Mid Range,Good,105.35
+Blinkit,milk,89,2026-07-13T05:13:09.729273,481636,Amul Kool Royal Elaichi Flavoured Milk,Amul,29,30,180 ml,1,45631,4.489999771,260,3.33,1,Low,Low Stock,Budget,Good,95.01
+Blinkit,milk,90,2026-07-13T05:13:09.729324,481035,Nandini Goodlife Pista Flavoured Milk,Nandini Goodlife,25,25,180 ml,2,45631,4.639999866,448,0.0,0,Low,Low Stock,Budget,Excellent,91.55
+Blinkit,milk,91,2026-07-13T05:13:09.729433,519484,Sofit Almond Beverage,Sofit,199,299,1 ltr,2,45631,4.090000153,"1,210",33.44,100,Low,Low Stock,Premium,Good,138.73
+Blinkit,milk,92,2026-07-13T05:13:09.729570,3454,Sofit Kesar Pista Soy Beverage,Sofit,145,155,1 ltr,2,45631,4.380000114,"1,570",6.45,10,Low,Low Stock,Mid Range,Good,93.25
+Blinkit,milk,93,2026-07-13T05:13:09.729721,136945,Amulspray Baby Milk Powder,Amulspray,255,255,500 g,6,45631,4.789999962,"6,570",0.0,0,Medium,In Stock,Premium,Excellent,83.05
+Blinkit,milk,94,2026-07-13T05:13:09.729851,481218,Britannia Winkin Cow Badam Thick Milkshake,Britannia Winkin Cow,28,35,180 ml,2,45631,4.480000019,162,20.0,7,Low,Low Stock,Budget,Good,128.2
+Blinkit,milk,95,2026-07-13T05:13:12.255474,405020,Britannia Winkin Cow Vanilla Thick Milkshake - Pack of 2,Britannia,64,80,2 x 180 ml,1,45631,4.650000095,"5,684",20.0,16,Low,Low Stock,Mid Range,Excellent,129.8
+Blinkit,milk,96,2026-07-13T05:13:12.256157,16725,Cavin's Kaju Butterscotch Milkshake,Cavin's,38,40,170 ml,1,45631,4.460000038,"2,565",5.0,2,Low,Low Stock,Budget,Good,97.3
+Blinkit,milk,97,2026-07-13T05:13:12.256457,481034,Nandini Goodlife Strawberry Flavoured Milk,Nandini Goodlife,25,25,180 ml,3,45631,4.75,333,0.0,0,Low,Low Stock,Budget,Excellent,93.75
+Blinkit,milk,98,2026-07-13T05:13:12.256690,10710,Sofit Vanilla Flavoured Soy Beverage,Sofit,145,155,1 ltr,2,45631,4.400000095,"4,199",6.45,10,Low,Low Stock,Mid Range,Good,93.65
+Blinkit,milk,99,2026-07-13T05:13:12.256839,591777,Milky Mist Sweetened Condensed Milk,Milky Mist,65,75,200 g,3,45631,,,13.33,10,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,100,2026-07-13T05:13:12.257042,625049,Britannia Winkin Cow Bourbon Milkshake,Britannia Winkin Cow,33,40,185 ml,2,45631,4.619999886,59,17.5,7,Low,Low Stock,Budget,Excellent,125.75
+Blinkit,milk,101,2026-07-13T05:13:12.257154,608504,137 Degrees Almond Milk Drink,137 Degrees,475,475,1 ltr,3,45631,4.5,223,0.0,0,Low,Low Stock,Premium,Excellent,66.25
+Blinkit,milk,102,2026-07-13T05:13:12.257261,398856,Amul Kool Cafe Cinnamon Flavoured Milk,Amul Kool Cafe,30,30,200 ml,3,45631,4.380000114,"1,469",0.0,0,Low,Low Stock,Budget,Good,86.1
+Blinkit,milk,103,2026-07-13T05:13:12.257394,518459,Ensure Adult Milk Drink,Ensure,641,745,375 g,2,45631,4.730000019,"2,923",13.96,104,Low,Low Stock,Premium,Excellent,90.47
+Blinkit,milk,104,2026-07-13T05:13:12.257479,776844,Epigamia Almond Beverage (Unsweetened),Epigamia,51,75,200 ml,1,45631,4.119999886,127,32.0,24,Low,Low Stock,Mid Range,Good,143.85
+Blinkit,milk,105,2026-07-13T05:13:12.257577,714552,Fidelo Almond Drink (Unsweetened),Fidelo,239,355,1 ltr,1,45631,3.470000029,32,32.68,116,Low,Low Stock,Premium,Poor,122.81
+Blinkit,milk,106,2026-07-13T05:13:12.257730,486145,Only Earth Unsweetened Coconut Drink,Only Earth,264,299,1 ltr,2,45631,4.210000038,431,11.71,35,Low,Low Stock,Premium,Good,94.42
+Blinkit,milk,107,2026-07-13T05:13:14.830386,401256,Britannia Winkin Cow Strawberry Thick Milkshake,Britannia,33,40,185 ml,2,45631,4.659999847,"6,275",17.5,7,Low,Low Stock,Budget,Excellent,126.55
+Blinkit,milk,108,2026-07-13T05:13:14.830788,26904,Amul Kool Strawberry Flavoured Milk,Amul Kool,30,30,200 ml,2,45631,4.550000191,"5,773",0.0,0,Low,Low Stock,Budget,Excellent,89.5
+Blinkit,milk,109,2026-07-13T05:13:14.831363,178310,Amul Pure Milk Cheese Block,Amul,245,245,400 g,1,45631,4.599999905,730,0.0,0,Low,Low Stock,Premium,Excellent,79.75
+Blinkit,milk,110,2026-07-13T05:13:14.833005,405021,Britannia Winkin Cow Chocolate Thick Milkshake - Pack of 2,Britannia,64,80,2 x 185 ml,1,45631,4.639999866,"10,510",20.0,16,Low,Low Stock,Mid Range,Excellent,129.6
+Blinkit,milk,111,2026-07-13T05:13:14.833537,627806,Cavin's Badam Flavoured Milk,Cavin's,28,30,170 ml,2,45631,4.46999979,"1,278",6.67,2,Low,Low Stock,Budget,Good,101.34
+Blinkit,milk,112,2026-07-13T05:13:14.833884,729347,So Good High Protein Almond Beverage,So Good,246,300,1 ltr,1,45631,4.21999979,182,18.0,54,Low,Low Stock,Premium,Good,108.1
+Blinkit,milk,113,2026-07-13T05:13:14.834096,122389,Sofit Natural Soy Beverage,Sofit,37,40,180 ml,2,45631,4.409999847,"4,272",7.5,3,Low,Low Stock,Budget,Good,101.35
+Blinkit,milk,114,2026-07-13T05:13:14.834220,722653,Yoga Bar Unsweetened Oat Beverage,Yoga Bar,237,275,1 ltr,2,45631,4.190000057,153,13.82,38,Low,Low Stock,Premium,Good,99.59
+Blinkit,milk,115,2026-07-13T05:13:14.834484,481037,Nandini Goodlife Vanilla Milkshake,Nandini Goodlife,30,30,180 ml,4,45631,4.539999962,253,0.0,0,Low,Low Stock,Budget,Excellent,89.3
+Blinkit,milk,116,2026-07-13T05:13:14.834565,323067,Hershey's Cookies 'n' Creme Flavour Milkshake,Hershey's,36,40,180 ml,4,45631,4.170000076,"4,592",10.0,4,Low,Low Stock,Budget,Good,101.6
+Blinkit,milk,117,2026-07-13T05:13:14.834705,320684,Hershey's Strawberry Flavour Milkshake,Hershey's,36,40,180 ml,3,45631,4.210000038,"4,930",10.0,4,Low,Low Stock,Budget,Good,102.4
+Blinkit,milk,118,2026-07-13T05:13:14.835075,398850,Amul Pina Colada Mocktail Flavoured Milk,Amul,35,35,200 ml,3,45631,4.489999771,483,0.0,0,Low,Low Stock,Budget,Good,88.05
+Blinkit,milk,119,2026-07-13T05:13:17.364808,309634,Nestle Ceregrow Multigrain Milk & Fruits Cereal,Nestle,299,299,300 g,1,45631,4.739999771,"4,479",0.0,0,Low,Low Stock,Premium,Excellent,79.85
+Blinkit,milk,120,2026-07-13T05:13:17.365089,568041,Nestle Nan Lo Lac Infant Formula Milk Powder,Nestle Nan Lo Lac,620,620,400 g,1,45631,4.71999979,"2,217",0.0,0,Low,Low Stock,Premium,Excellent,63.4
+Blinkit,milk,121,2026-07-13T05:13:17.365682,777783,Smoodh Hazelnut Chocolate Flavoured Milk,Smoodh,90,100,10 x 80 ml,2,45631,4.949999809,22,10.0,10,Low,Low Stock,Mid Range,Excellent,114.5
+Blinkit,milk,122,2026-07-13T05:13:17.365890,627793,Cavin's Rose Flavoured Milk,Cavin's,28,30,170 ml,1,45631,4.510000229,671,6.67,2,Low,Low Stock,Budget,Excellent,102.14
+Blinkit,milk,123,2026-07-13T05:13:17.365983,429438,Nestle Lactogrow Nutritious Kids Milk Drink (Biscuity Vanilla Flavour (2 - 6 years)),Nestle Lactogrow,340,375,400 g,1,45631,4.760000229,"2,421",9.33,35,Low,Low Stock,Premium,Excellent,96.86
+Blinkit,milk,124,2026-07-13T05:13:17.366059,398852,Amul Kadai Doodh Flavoured Milk,Amul,35,35,200 ml,1,45631,4.639999866,"5,854",0.0,0,Low,Low Stock,Budget,Excellent,91.05
+Blinkit,milk,125,2026-07-13T05:13:17.366272,656390,Only Earth Vanilla Shake Oat Beverage,Only Earth,43,45,165 ml,4,45631,4.449999809,302,4.44,2,Low,Low Stock,Budget,Good,95.73
+Blinkit,milk,126,2026-07-13T05:13:17.366386,617986,Amul Sweetened Condensed Milk Gold,Amul,145,145,405 g,2,45631,4.71999979,"1,375",0.0,0,Low,Low Stock,Mid Range,Excellent,87.15
+Blinkit,milk,127,2026-07-13T05:13:17.366461,777786,Smoodh Toffee Caramel Flavoured Milk,Smoodh,90,100,10 x 80 ml,1,45631,,,10.0,10,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,128,2026-07-13T05:13:17.366609,636269,Cream Bell Kesar Badam Milkshake,Cream Bell,30,30,180 ml,2,45631,4.579999924,392,0.0,0,Low,Low Stock,Budget,Excellent,90.1
+Blinkit,milk,129,2026-07-13T05:13:17.366980,636271,Cream Bell Vanilla Milkshake,Cream Bell,30,30,180 ml,1,45631,4.199999809,249,0.0,0,Low,Low Stock,Budget,Good,82.5
+Blinkit,milk,130,2026-07-13T05:13:17.367230,628154,So Good Barista Edition Oat Beverage,So Good,232,289,1 ltr,1,45631,3.019999981,22,19.72,57,Low,Low Stock,Premium,Poor,88.24
+Blinkit,milk,131,2026-07-13T05:13:19.915805,722894,Yoga Bar Almond Beverage Drink,Yoga Bar,240,299,1 ltr,1,45631,2.839999914,125,19.73,59,Low,Low Stock,Premium,Poor,84.26
+Blinkit,milk,132,2026-07-13T05:13:19.916019,636930,Aashirvaad Badam Flavoured Milk,Aashirvaad,30,30,180 ml,2,45631,4.460000038,684,0.0,0,Low,Low Stock,Budget,Good,87.7
+Blinkit,milk,133,2026-07-13T05:13:19.916127,545888,Hershey's Coffee Mocha Flavor Milkshake,Hershey's,34,37,180 ml,1,45631,4.349999905,"2,520",8.11,3,Low,Low Stock,Budget,Good,101.52
+Blinkit,milk,134,2026-07-13T05:13:19.916347,656387,Only Earth Strawberry Shake Oat Beverage,Only Earth,43,45,165 ml,2,45631,4.460000038,219,4.44,2,Low,Low Stock,Budget,Good,95.93
+Blinkit,milk,135,2026-07-13T05:13:19.916424,488041,"Urban Platter OatWOW Classic Oat Beverage (Lactose-Free, Plant-Based / Vegan / Milk Alternative)",Urban Platter,315,350,1 ltr,1,45631,4.320000172,234,10.0,35,Low,Low Stock,Premium,Good,90.65
+Blinkit,milk,136,2026-07-13T05:13:19.916475,540962,So Good Caramel Oat Beverage,So Good,246,267,1 ltr,2,45631,3.890000105,392,7.87,21,Low,Low Stock,Premium,Good,81.24
+Blinkit,milk,137,2026-07-13T05:13:19.916518,63290,Nestle Milo Original Milk Drink,Nestle Milo,119,149,240 ml,2,45631,3.769999981,100,20.13,30,Low,Low Stock,Mid Range,Good,109.71
+Blinkit,milk,138,2026-07-13T05:13:19.916559,633036,Nestle Milo Ice Milk Drink,Nestle Milo,119,149,240 ml,2,45631,3.480000019,65,20.13,30,Low,Low Stock,Mid Range,Poor,103.91
+Blinkit,milk,139,2026-07-13T05:13:19.916629,632915,Nestle Milo Kaw Milk Drink,Nestle Milo,119,149,240 ml,1,45631,4.0,55,20.13,30,Low,Low Stock,Mid Range,Good,114.31
+Blinkit,milk,140,2026-07-13T05:13:19.916711,782478,"Slurrp Farm First Bites Strawberry, Sprouted Ragi & Rice Baby Cereal with Milk",Slurrp Farm,311,311,200 g,1,45631,,,0.0,0,Low,Low Stock,Premium,Excellent,
+Blinkit,milk,141,2026-07-13T05:13:19.916832,641368,Amezo Edam Cheese Block,Amezo,475,550,200 g,1,45631,4.389999866,23,13.64,75,Low,Low Stock,Premium,Good,91.33
+Blinkit,milk,142,2026-07-13T05:13:19.916925,531425,Protinex Milk Drink (Creamy Vanilla Flavour),Protinex,1090,1449,1 kg,1,45631,4.659999847,573,24.78,359,Low,Low Stock,Premium,Excellent,88.26
+Blinkit,milk,143,2026-07-13T05:13:22.454655,748345,Mevano 7nuts 3-10 years Kids Protein Milk Drink Mix,Mevano,599,649,350 g,1,45631,,,7.7,50,Low,Low Stock,Premium,Excellent,
+Blinkit,milk,144,2026-07-13T05:13:22.454947,641070,Amezo Black Pepper Gouda Cheese Block,Amezo,475,550,200 g,1,45631,2.910000086,26,13.64,75,Low,Low Stock,Premium,Poor,61.73
+Blinkit,milk,145,2026-07-13T05:13:22.455128,748354,Mevano 7nuts 10+ years Protein Milk Drink Mix,Mevano,599,699,350 g,1,45631,,,14.31,100,Low,Low Stock,Premium,Excellent,
+Blinkit,milk,146,2026-07-13T05:13:22.455243,520314,Nutty Yogi Turmeric Golden Milk Latte,Nutty Yogi,358,358,2 pcs,1,45631,3.160000086,30,0.0,0,Low,Low Stock,Premium,Poor,45.3
+Blinkit,milk,147,2026-07-13T05:13:22.455336,16728,Cavin's Vanilla Milkshake,Cavin's,38,40,180 ml,10,45631,4.550000191,"6,512",5.0,2,Medium,In Stock,Budget,Excellent,99.1
+Blinkit,milk,148,2026-07-13T05:13:22.455539,28169,Milky Mist Paneer,Milky Mist,105,135,200 g,41,45631,4.630000114,"39,490",22.22,30,High,In Stock,Mid Range,Excellent,131.79
+Blinkit,milk,149,2026-07-13T05:13:22.455636,605732,Milky Mist Low Fat High Protein Paneer,Milky Mist,140,160,200 g,8,45631,4.539999962,"8,495",12.5,20,Medium,In Stock,Mid Range,Excellent,108.8
+Blinkit,milk,150,2026-07-13T05:13:22.455848,724913,Amul Protein Blueberry Shake (20 g protein),Amul,60,60,200 ml,29,45631,4.539999962,"12,920",0.0,0,High,In Stock,Mid Range,Excellent,87.8
+Blinkit,milk,151,2026-07-13T05:13:22.455972,540432,Epigamia Turbo Chocolate Protein Milkshake,Epigamia,120,141,250 ml,9,45631,4.300000191,"10,270",14.89,21,Medium,In Stock,Mid Range,Good,109.78
+Blinkit,milk,152,2026-07-13T05:13:22.456087,751945,Nestle KitKat Chocolate Milkshake,Nestle KitKat,179,179,220 ml,9,45631,3.829999924,777,0.0,0,Medium,In Stock,Premium,Good,67.65
+Blinkit,milk,153,2026-07-13T05:13:22.456188,16726,Cavin's Chocolate Milkshake (180 ml),Cavin's,38,40,180 ml,8,45631,4.539999962,"7,118",5.0,2,Medium,In Stock,Budget,Excellent,98.9
+Blinkit,milk,154,2026-07-13T05:13:22.456304,560813,Epigamia Turbo Coffee Protein Milkshake,Epigamia,113,141,250 ml,4,45631,4.320000172,"4,863",19.86,28,Low,Low Stock,Mid Range,Good,120.47
+Blinkit,milk,155,2026-07-13T05:13:25.008139,541681,Epigamia Turbo Cookies & Cream Protein Milkshake,Epigamia,120,141,250 ml,4,45631,4.369999886,"5,439",14.89,21,Low,Low Stock,Mid Range,Good,111.18
+Blinkit,milk,156,2026-07-13T05:13:25.008518,381969,Cavin's Chocolate Milkshake (1 Ltr),Cavin's,143,240,1 ltr,1,45631,4.480000019,"1,677",40.42,97,Low,Low Stock,Mid Range,Good,163.29
+Blinkit,milk,157,2026-07-13T05:13:25.008739,564147,Yoga Bar 26 g Protein Milkshake - Cold Coffee,Yoga Bar,118,131,250 ml,3,45631,4.369999886,"2,698",9.92,13,Low,Low Stock,Mid Range,Good,101.34
+Blinkit,milk,158,2026-07-13T05:13:25.008932,28160,Milky Mist Cheese Slices,Milky Mist,113,160,200 g,6,45631,4.820000172,939,29.38,47,Medium,In Stock,Mid Range,Excellent,149.51
+Blinkit,milk,159,2026-07-13T05:13:25.009120,564149,Yoga Bar 26 g Protein Milkshake (Double Chocolate),Yoga Bar,118,131,250 ml,4,45631,4.079999924,"3,076",9.92,13,Low,Low Stock,Mid Range,Good,95.54
+Blinkit,milk,160,2026-07-13T05:13:25.009223,487312,Milky Mist Pizza Mozzarella Shredded Cheese,Milky Mist,125,150,200 g,2,45631,4.75,493,16.67,25,Low,Low Stock,Mid Range,Excellent,122.09
+Blinkit,milk,161,2026-07-13T05:13:25.009322,600607,Boost Chocolate Milkshake,Boost,34,40,180 ml,2,45631,4.230000019,"2,384",15.0,6,Low,Low Stock,Budget,Good,112.9
+Blinkit,milk,162,2026-07-13T05:13:25.009406,636212,Cream Bell Maxxum Double Chocolate Milkshake,Cream Bell,30,30,180 ml,2,45631,4.590000153,"1,138",0.0,0,Low,Low Stock,Budget,Excellent,90.3
+Blinkit,milk,163,2026-07-13T05:13:25.009614,483899,Phab 18g Protein Milkshake - Classic Chocolate (No Added Sugar),Phab,125,125,200 ml,2,45631,4.21999979,678,0.0,0,Low,Low Stock,Mid Range,Good,78.15
+Blinkit,milk,164,2026-07-13T05:13:25.009728,634350,Nuvie Vanilla Protein Milkshake,Nuvie,105,110,250 ml,2,45631,3.970000029,354,4.55,5,Low,Low Stock,Mid Range,Good,83.25
+Blinkit,milk,165,2026-07-13T05:13:25.009808,483902,Phab 18g Protein Milkshake - Strawberries & Cream (No Added Sugar),Phab,125,125,200 ml,2,45631,4.269999981,641,0.0,0,Low,Low Stock,Mid Range,Good,79.15
+Blinkit,milk,166,2026-07-13T05:13:25.009901,793106,Raw Pressery Banana Honey Protein Milkshake,Raw Pressery,111,145,250 ml,2,45631,,,23.45,34,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,167,2026-07-13T05:13:27.550557,793364,Raw Pressery Cold Coffee Protein Milkshake,Raw Pressery,111,145,250 ml,2,45631,3.970000029,"3,967",23.45,34,Low,Low Stock,Mid Range,Good,120.75
+Blinkit,milk,168,2026-07-13T05:13:27.550869,28158,Milky Mist Cheddar Cheese Block,Milky Mist,160,175,200 g,2,45631,4.480000019,315,8.57,15,Low,Low Stock,Premium,Good,98.74
+Blinkit,milk,169,2026-07-13T05:13:27.551050,793107,Raw Pressery Choco Mint Protein Milkshake,Raw Pressery,111,145,250 ml,1,45631,3.849999905,"1,368",23.45,34,Low,Low Stock,Mid Range,Good,118.35
+Blinkit,milk,170,2026-07-13T05:13:27.551170,28159,Milky Mist Cheese Cubes,Milky Mist,156,170,200 g,1,45631,4.860000134,336,8.24,14,Low,Low Stock,Premium,Excellent,105.88
+Blinkit,milk,171,2026-07-13T05:13:27.551314,757405,Nuvie 20 g Protein Milkshake,Nuvie,105,110,250 ml,3,45631,4.190000057,209,4.55,5,Low,Low Stock,Mid Range,Good,87.65
+Blinkit,milk,172,2026-07-13T05:13:27.551443,590979,Phab Vanilla Almond 18 g Protein Milkshake,Phab,125,125,200 ml,1,45631,4.179999828,567,0.0,0,Low,Low Stock,Mid Range,Good,77.35
+Blinkit,milk,173,2026-07-13T05:13:27.552033,483901,Phab 18g Protein Cold Coffee Protein Milkshake (No Added Sugar),Phab,125,125,200 ml,1,45631,4.300000191,524,0.0,0,Low,Low Stock,Mid Range,Good,79.75
+Blinkit,milk,174,2026-07-13T05:13:27.552201,636216,Cream Bell Maxxum Java Coffee Milkshake,Cream Bell,30,30,180 ml,1,45631,4.630000114,578,0.0,0,Low,Low Stock,Budget,Excellent,91.1
+Blinkit,milk,175,2026-07-13T05:13:27.552320,317610,Britannia Milk Bread,Britannia,60,60,400 g,14,45631,4.5,"47,316",0.0,0,Medium,In Stock,Mid Range,Excellent,87.0
+Blinkit,milk,176,2026-07-13T05:13:27.552488,647386,Naturbaked Whole Wheat Bread (Zero Maida),Naturbaked,56,60,300 g,6,45631,4.389999866,"2,288",6.67,4,Medium,In Stock,Mid Range,Good,98.34
+Blinkit,milk,177,2026-07-13T05:13:27.552612,727338,The Health Factory Super Protein Bread,The Health Factory,85,95,250 g,7,45631,3.670000076,786,10.53,10,Medium,In Stock,Mid Range,Good,90.21
+Blinkit,milk,178,2026-07-13T05:13:27.552777,530069,The Health Factory Zero Maida Whole Wheat Bread,The Health Factory,65,65,350 g,1,45631,4.400000095,"91,992",0.0,0,Low,Low Stock,Mid Range,Good,84.75
+Blinkit,milk,179,2026-07-13T05:13:30.047135,114234,Modern 100% Whole Wheat Bread (Zero Maida),Modern,65,65,400 g,6,45631,4.550000191,"68,092",0.0,0,Medium,In Stock,Mid Range,Excellent,87.75
+Blinkit,milk,180,2026-07-13T05:13:30.047614,111463,Britannia Multigrain Bread,Britannia,59,70,400 g,2,45631,4.309999943,"4,694",15.71,11,Low,Low Stock,Mid Range,Good,114.67
+Blinkit,milk,181,2026-07-13T05:13:30.047871,127031,Britannia 100% Whole Wheat Bread (No Maida),Britannia,65,65,400 g,7,45631,4.519999981,"55,817",0.0,0,Medium,In Stock,Mid Range,Excellent,87.15
+Blinkit,milk,182,2026-07-13T05:13:30.048057,72209,Modern White Bread,Modern,60,60,400 g,1,45631,4.460000038,"43,756",0.0,0,Low,Low Stock,Mid Range,Good,86.2
+Blinkit,milk,183,2026-07-13T05:13:30.048269,24178,English Oven Milk Bread,English Oven,60,60,400 g,6,45631,4.53000021,"40,656",0.0,0,Medium,In Stock,Mid Range,Excellent,87.6
+Blinkit,milk,184,2026-07-13T05:13:30.048551,757807,Protein Chef 50g High Protein Bread (Multigrain),Protein Chef,79,85,270 g,3,45631,4.090000153,683,7.06,6,Low,Low Stock,Mid Range,Good,91.97
+Blinkit,milk,185,2026-07-13T05:13:30.048826,18403,English Oven Sandwich White Bread,English Oven,60,60,400 g,5,45631,4.429999828,"37,420",0.0,0,Low,Low Stock,Mid Range,Good,85.6
+Blinkit,milk,186,2026-07-13T05:13:30.048932,383411,English Oven Zero Maida Whole Wheat Bread,English Oven,65,65,400 g,4,45631,4.440000057,"15,629",0.0,0,Low,Low Stock,Mid Range,Good,85.55
+Blinkit,milk,187,2026-07-13T05:13:32.522622,18401,English Oven Zero Maida Multigrain Bread,English Oven,70,70,400 g,3,45631,4.559999943,"48,376",0.0,0,Low,Low Stock,Mid Range,Excellent,87.7
+Blinkit,milk,188,2026-07-13T05:13:32.523029,628119,Iyengars Bakery Special Milk Bread,Iyengars Bakery,72,72,400 g,3,45631,4.510000229,"1,026",0.0,0,Low,Low Stock,Mid Range,Excellent,86.6
+Blinkit,milk,189,2026-07-13T05:13:32.523247,548808,The Health Factory Zero Maida Milk Bread,The Health Factory,65,65,250 g,2,45631,4.25,"9,550",0.0,0,Low,Low Stock,Mid Range,Good,81.75
+Blinkit,milk,190,2026-07-13T05:13:32.523356,665832,The Baker's Dozen Zero Maida Milk Bread,The Baker's Dozen,57,60,230 g,2,45631,4.110000134,"1,735",5.0,3,Low,Low Stock,Mid Range,Good,89.35
+Blinkit,milk,191,2026-07-13T05:13:32.523435,530068,The Health Factory Zero Maida Multigrain Bread,The Health Factory,70,70,250 g,2,45631,4.389999866,"27,335",0.0,0,Low,Low Stock,Mid Range,Good,84.3
+Blinkit,milk,192,2026-07-13T05:13:32.523551,92957,English Oven Premium White Bread 350 g,English Oven,50,50,350 g,1,45631,4.539999962,"75,123",0.0,0,Low,Low Stock,Mid Range,Excellent,88.3
+Blinkit,milk,193,2026-07-13T05:13:32.523650,674304,Baker's Loaf Zero Preservatives Multigrain Bread,Baker's Loaf,81,90,350 g,3,45631,4.409999847,522,10.0,9,Low,Low Stock,Mid Range,Good,104.15
+Blinkit,milk,194,2026-07-13T05:13:32.523723,526318,Modern Milk Plus Milk Bread,Modern,55,55,350 g,2,45631,4.369999886,"2,965",0.0,0,Low,Low Stock,Mid Range,Good,84.65
+Blinkit,milk,195,2026-07-13T05:13:32.523891,18396,English Oven Brown Bread,English Oven,65,65,400 g,4,45631,4.559999943,"66,052",0.0,0,Low,Low Stock,Mid Range,Excellent,87.95
+Blinkit,milk,196,2026-07-13T05:13:35.132893,555448,Protein Chef 42g Protein Multigrain Bread - 5 Superfoods,Protein Chef,69,75,270 g,3,45631,4.260000229,"9,749",8.0,6,Low,Low Stock,Mid Range,Good,97.75
+Blinkit,milk,197,2026-07-13T05:13:35.133314,114233,Modern Multigrain Bread,Modern,70,70,400 g,4,45631,4.539999962,"19,837",0.0,0,Low,Low Stock,Mid Range,Excellent,87.3
+Blinkit,milk,198,2026-07-13T05:13:35.133493,384010,Modern Sandwich White Bread,Modern,95,95,800 g,3,45631,4.460000038,"11,484",0.0,0,Low,Low Stock,Mid Range,Good,84.45
+Blinkit,milk,199,2026-07-13T05:13:35.133718,530684,Protein Chef Multigrain Double Protein Bread (64g Protein per Loaf),Protein Chef,99,99,270 g,2,45631,4.260000229,"7,391",0.0,0,Low,Low Stock,Mid Range,Good,80.25
+Blinkit,milk,200,2026-07-13T05:13:35.133796,34653,Modern Fruit Bread,Modern,30,30,200 g,1,45631,4.449999809,"12,822",0.0,0,Low,Low Stock,Budget,Good,87.5
+Blinkit,milk,201,2026-07-13T05:13:35.133868,467351,The Baker's Dozen Fourgrains Sourdough Bread (Zero Maida),The Baker's Dozen,214,235,380 g,1,45631,3.980000019,"1,856",8.94,21,Low,Low Stock,Premium,Good,86.78
+Blinkit,milk,202,2026-07-13T05:13:35.133996,376872,English Oven Fruit Bread,English Oven,25,25,150 g,1,45631,4.260000229,"1,637",0.0,0,Low,Low Stock,Budget,Good,83.95
+Blinkit,milk,203,2026-07-13T05:13:35.134140,455874,"The Baker's Dozen Zero Maida Pita Bread, Whole Wheat",The Baker's Dozen,85,85,100 g,1,45631,3.670000076,"1,916",0.0,0,Low,Low Stock,Mid Range,Good,69.15
+Blinkit,milk,204,2026-07-13T05:13:35.134398,467324,The Baker’s Dozen Whole Wheat Banana Cake,The Baker's Dozen,175,175,150 g,1,45631,4.389999866,"5,919",0.0,0,Low,Low Stock,Premium,Good,79.05
+Blinkit,milk,205,2026-07-13T05:13:35.134513,761883,Awsum Better Bakes Banana Bread,Awsum,105,150,150 g,2,45631,4.079999924,478,30.0,45,Low,Low Stock,Mid Range,Good,136.35
+Blinkit,milk,206,2026-07-13T05:13:35.134662,346893,Wingreens Farms Multigrain Baked Flat Bread Sticks,Wingreens Farms,135,150,100 g,5,45631,4.190000057,"2,030",10.0,15,Low,Low Stock,Mid Range,Good,97.05
+Blinkit,milk,207,2026-07-13T05:13:35.134822,259923,Nandini Pouch Curd,Nandini,28,28,500 g,50,45631,4.690000057,1.1 lac,0.0,0,High,In Stock,Budget,Excellent,92.4
+Blinkit,milk,208,2026-07-13T05:13:37.642698,502826,Milky Mist Farm Fresh Pouch Curd,Milky Mist,39,42,400 g,27,45631,4.739999771,"27,605",7.14,3,High,In Stock,Budget,Excellent,107.13
+Blinkit,milk,209,2026-07-13T05:13:37.643089,243882,Heritage Total Pouch Curd,Heritage,35,38,500 g,12,45631,4.690000057,"50,050",7.89,3,Medium,In Stock,Budget,Excellent,107.83
+Blinkit,milk,210,2026-07-13T05:13:37.643278,541785,Amul Probiotic High Protein Curd,Amul,80,80,400 g,45,45631,4.170000076,"21,376",0.0,0,High,In Stock,Mid Range,Good,79.4
+Blinkit,milk,211,2026-07-13T05:13:37.643427,478889,Akshayakalpa Organic Artisanal Organic Set Cup Curd,Akshayakalpa Organic,155,155,1 kg,14,45631,4.610000134,"6,048",0.0,0,Medium,In Stock,Premium,Excellent,84.45
+Blinkit,milk,212,2026-07-13T05:13:37.643544,518712,Akshayakalpa Organic Probiotic Pouch Curd,Akshayakalpa Organic,55,55,500 g,10,45631,4.71999979,"7,326",0.0,0,Medium,In Stock,Mid Range,Excellent,91.65
+Blinkit,milk,213,2026-07-13T05:13:37.643658,520332,Amul Masti Pouch Curd,Amul,36,36,450 g,7,45631,4.599999905,"9,488",0.0,0,Medium,In Stock,Budget,Excellent,90.2
+Blinkit,milk,214,2026-07-13T05:13:37.643731,349944,Mother Dairy Classic Cup Curd,Mother Dairy,25,25,200 g,4,45631,4.650000095,1.3 lac,0.0,0,Low,Low Stock,Budget,Excellent,91.75
+Blinkit,milk,215,2026-07-13T05:13:37.643832,32884,Milky Mist Farm Fresh Cup Curd,Milky Mist,126,138,1 kg,4,45631,4.610000134,"21,518",8.7,12,Low,Low Stock,Mid Range,Excellent,103.3
+Blinkit,milk,216,2026-07-13T05:13:37.643994,572594,Amul Pouch Curd,Amul,28,28,450 g,7,45631,4.610000134,1 lac,0.0,0,Medium,In Stock,Budget,Excellent,90.8
+Blinkit,milk,217,2026-07-13T05:13:37.644245,28170,Milky Mist Farm Fresh Cup Curd,Milky Mist,35,35,200 g,7,45631,4.619999886,"7,551",0.0,0,Medium,In Stock,Budget,Excellent,90.65
+Blinkit,milk,218,2026-07-13T05:13:37.644740,448465,Akshayakalpa Organic Artisanal Organic Set Cup Curd,Akshayakalpa Organic,80,80,400 g,8,45631,4.619999886,"1,947",0.0,0,Medium,In Stock,Mid Range,Excellent,88.4
+Blinkit,milk,219,2026-07-13T05:13:37.644841,478888,Akshayakalpa Organic Amrutha Organic Pouch Curd,Akshayakalpa Organic,70,70,500 g,4,45631,4.690000057,"2,611",0.0,0,Low,Low Stock,Mid Range,Excellent,90.3
+Blinkit,milk,220,2026-07-13T05:13:40.204627,281459,Hatsun Pouch Curd,Hatsun,37,37,500 g,2,45631,4.739999771,"42,421",0.0,0,Low,Low Stock,Budget,Excellent,92.95
+Blinkit,milk,221,2026-07-13T05:13:40.205013,203,Mother Dairy Mishti Doi,Mother Dairy,17,20,80 g,8,45631,4.510000229,1.1 lac,15.0,3,Medium,In Stock,Budget,Excellent,119.35
+Blinkit,milk,222,2026-07-13T05:13:40.205242,207937,Milky Mist Cup Curd,Milky Mist,65,70,400 g,5,45631,4.650000095,"10,477",7.14,5,Low,Low Stock,Mid Range,Excellent,104.03
+Blinkit,milk,223,2026-07-13T05:13:40.205407,535107,Heritage Soothing & Refreshing Cup Curd,Heritage,115,120,1 kg,3,45631,4.599999905,"18,317",4.17,5,Low,Low Stock,Mid Range,Excellent,94.59
+Blinkit,milk,224,2026-07-13T05:13:40.205567,56321,Heritage Total Cup Curd,Heritage,50,55,400 g,2,45631,4.610000134,"14,765",9.09,5,Low,Low Stock,Mid Range,Excellent,107.88
+Blinkit,milk,225,2026-07-13T05:13:40.205643,477797,Epigamia Lactose Free Cup Curd,Epigamia,100,100,400 g,8,45631,4.179999828,"2,140",0.0,0,Medium,In Stock,Mid Range,Good,78.6
+Blinkit,milk,226,2026-07-13T05:13:40.205743,479673,Milky Mist Probiotic Cup Curd,Milky Mist,65,70,400 g,2,45631,4.71999979,"4,174",7.14,5,Low,Low Stock,Mid Range,Excellent,105.43
+Blinkit,milk,227,2026-07-13T05:13:40.205850,10715,Nestle Everyday Dairy Whitener,Nestle Everyday,242,255,400 g,4,45631,4.809999943,"26,664",5.1,13,Low,Low Stock,Premium,Excellent,94.3
+Blinkit,milk,228,2026-07-13T05:13:40.205921,48212,Amulya Dairy Whitener,Amulya,255,255,500 g,3,45631,4.78000021,"20,176",0.0,0,Low,Low Stock,Premium,Excellent,82.85
+Blinkit,milk,229,2026-07-13T05:13:40.206109,767007,Amul Whole Milk Powder,Amul,270,270,500 g,3,45631,4.349999905,40,0.0,0,Low,Low Stock,Premium,Good,73.5
+Blinkit,milk,230,2026-07-13T05:13:42.651629,719692,Kelifta Milk Kefir Starter Culture Powder,Kelifta,399,700,12.5 g,1,45631,4.929999828,144,43.0,301,Low,Low Stock,Premium,Excellent,164.65
+Blinkit,milk,231,2026-07-13T05:13:42.651964,14152,Everest Kesari Milk Masala Premix,Everest,196,196,50 g,2,45631,4.630000114,"1,566",0.0,0,Low,Low Stock,Premium,Excellent,82.8
+Blinkit,milk,232,2026-07-13T05:13:42.652174,672198,Suhana Health Turmeric Latte Milk Premix,Suhana,110,177,120 g,1,45631,3.349999905,64,37.85,67,Low,Low Stock,Mid Range,Poor,137.2
+Blinkit,milk,233,2026-07-13T05:13:42.652451,95032,Ginger (Adrak),,56,64,200 g,15,45631,,,12.5,8,Medium,In Stock,Mid Range,Excellent,
+Blinkit,milk,234,2026-07-13T05:13:42.652590,602584,Organically Grown Ginger (Adrak),Green Earth,23,29,100 g,26,45631,,,20.69,6,High,In Stock,Budget,Excellent,
+Blinkit,milk,235,2026-07-13T05:13:42.652735,423735,Green Chilli (Hari Mirch),Freshbury,13,15,100 g,50,45631,,,13.33,2,High,In Stock,Budget,Excellent,
+Blinkit,milk,236,2026-07-13T05:13:42.652810,23343,English Cucumber (Kheera),,30,38,500 g,25,45631,,,21.05,8,High,In Stock,Budget,Excellent,
+Blinkit,milk,237,2026-07-13T05:13:42.652854,10088,Green Cucumber (Kheera),Freshbury,31,37,500 g,8,45631,,,16.22,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,238,2026-07-13T05:13:42.652901,327916,Orange Carrot (Gajar),,38,44,500 g,20,45631,,,13.64,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,239,2026-07-13T05:13:45.237372,438113,Cauliflower (Phool Gobhi),,34,40,300 g,6,45631,,,15.0,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,240,2026-07-13T05:13:45.237710,253317,Button Mushroom,,64,76,180 g,26,45631,,,15.79,12,High,In Stock,Mid Range,Excellent,
+Blinkit,milk,241,2026-07-13T05:13:45.237887,355004,Garlic (Lehsun),,38,44,100 g,21,45631,,,13.64,6,High,In Stock,Budget,Excellent,
+Blinkit,milk,242,2026-07-13T05:13:45.238004,3888,Green Capsicum (Shimla Mirch),Freshbury,28,35,250 g,18,45631,,,20.0,7,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,243,2026-07-13T05:13:45.238111,271992,Broccoli,Freshbury,50,62,200 g,10,45631,,,19.35,12,Medium,In Stock,Mid Range,Excellent,
+Blinkit,milk,244,2026-07-13T05:13:45.238245,217614,Bottle Gourd (Lauki),Freshbury,27,33,400 g,12,45631,,,18.18,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,245,2026-07-13T05:13:45.238460,22982,Haricot Beans,,29,34,250 g,4,45631,,,14.71,5,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,246,2026-07-13T05:13:45.238571,425780,Pointed Gourd (250 g) (Parwal),Freshbury,36,44,250 g,2,45631,,,18.18,8,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,247,2026-07-13T05:13:45.238731,3898,Lady Finger (Bhindi),,14,17,250 g,25,45631,,,17.65,3,High,In Stock,Budget,Excellent,
+Blinkit,milk,248,2026-07-13T05:13:45.238878,355012,Spring Onion (Hari Pyaz),,28,32,250 g,14,45631,,,12.5,4,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,249,2026-07-13T05:13:45.239206,339152,Cabbage (Patta Gobhi),,24,29,400 g,4,45631,,,17.24,5,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,250,2026-07-13T05:13:45.239402,4916,French Beans - 250 g,,30,35,250 g,12,45631,,,14.29,5,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,251,2026-07-13T05:13:47.790321,166848,Beetroot (Chukandar),,32,36,500 g,4,45631,,,11.11,4,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,252,2026-07-13T05:13:47.790665,428608,Amla (Amla),,33,38,250 g,2,45631,,,13.16,5,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,253,2026-07-13T05:13:47.790779,445188,American Sweet Corn Cob (Bhutta),,24,30,1 pc,5,45631,,,20.0,6,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,254,2026-07-13T05:13:47.791048,39394,Red Bell Pepper,Freshbury,45,58,125 g,6,45631,,,22.41,13,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,255,2026-07-13T05:13:47.791231,3907,Ivy Gourd (Kundru),Freshbury,11,14,250 g,6,45631,,,21.43,3,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,256,2026-07-13T05:13:47.791705,421747,Radish (Mooli),,24,30,500 g,1,45631,,,20.0,6,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,257,2026-07-13T05:13:47.791856,3928,Broad Beans 250 g (Sem Phali),,26,30,250 g,7,45631,,,13.33,4,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,258,2026-07-13T05:13:47.791953,4926,Baby Potato (Aloo),,22,26,500 g,2,45631,,,15.38,4,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,259,2026-07-13T05:13:47.792033,162320,Raw Banana (Kacha Kela),,47,61,3 pcs,5,45631,,,22.95,14,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,260,2026-07-13T05:13:47.792153,10095,Cowpea Beans (Lobia Phali),,12,15,250 g,3,45631,,,20.0,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,261,2026-07-13T05:13:47.792224,3924,Cluster Beans (Gwar Phali),,18,21,250 g,12,45631,,,14.29,3,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,262,2026-07-13T05:13:47.792320,507201,Neem Leaves,,15,17,1 pack,4,45631,,,11.76,2,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,263,2026-07-13T05:13:50.320082,39395,Yellow Bell Pepper,Freshbury,43,55,125 g,3,45631,,,21.82,12,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,264,2026-07-13T05:13:50.320552,443547,Raw Papaya (Kacha Papita),,35,45,400 g,1,45631,,,22.22,10,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,265,2026-07-13T05:13:50.320908,96534,Forest Bitter Gourd (Karela),Freshbury,23,29,200 g,4,45631,,,20.69,6,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,266,2026-07-13T05:13:50.321224,330330,Long Green Brinjal (Baingan),,40,46,250 g,3,45631,,,13.04,6,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,267,2026-07-13T05:13:50.321423,3885,Arvi,,20,23,250 g,4,45631,,,13.04,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,268,2026-07-13T05:13:50.321689,480428,Bok Choy,Freshbury,62,77,200 g,2,45631,,,19.48,15,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,269,2026-07-13T05:13:50.321859,438489,Picador Chilli (Achari Mirch),,22,28,250 g,4,45631,,,21.43,6,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,270,2026-07-13T05:13:50.321998,447622,Knol Khol (Gaath Gobhi),,28,32,500 g,2,45631,,,12.5,4,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,271,2026-07-13T05:13:50.322097,443554,Parsley,,21,25,25 g,1,45631,,,16.0,4,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,272,2026-07-13T05:13:50.322171,602607,Organically Grown Colocasia,Shatayushi Farms,30,38,250 g,7,45631,,,21.05,8,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,273,2026-07-13T05:13:50.322238,458757,Mangalore Cucumber,,22,27,400 g,1,45631,,,18.52,5,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,274,2026-07-13T05:13:50.322299,294636,Yellow Zucchini,Freshbury,38,44,200 g,3,45631,,,13.64,6,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,275,2026-07-13T05:13:52.999025,300633,Ash Gourd (Safed Petha),Freshbury,64,79,1.5 kg,2,45631,,,18.99,15,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,276,2026-07-13T05:13:52.999495,333536,Green Tomato (Tamatar),,13,16,500 g,4,45631,,,18.75,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,277,2026-07-13T05:13:53.000162,421742,Snake Gourd (Chichinda),Freshbury,21,24,500 g,2,45631,,,12.5,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,278,2026-07-13T05:13:53.000474,270197,Banana Stem,,16,19,800 g,2,45631,,,15.79,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,279,2026-07-13T05:13:53.000605,372021,Colocasia Stem,,100,124,500 g,1,45631,,,19.35,24,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,280,2026-07-13T05:13:53.000719,448464,Akshayakalpa Organic Malai Paneer,Akshayakalpa Organic,145,145,200 g,28,45631,4.480000019,"5,544",0.0,0,High,In Stock,Mid Range,Good,82.35
+Blinkit,milk,281,2026-07-13T05:13:53.000817,123007,Gowardhan Classic Block Paneer,Gowardhan,85,130,200 g,28,45631,4.510000229,"48,177",34.62,45,High,In Stock,Mid Range,Excellent,155.19
+Blinkit,milk,282,2026-07-13T05:13:53.001078,329500,Amul Fresh Malai Paneer,Amul,105,105,200 g,15,45631,4.659999847,3.7 lac,0.0,0,Medium,In Stock,Mid Range,Excellent,87.95
+Blinkit,milk,283,2026-07-13T05:13:53.001320,37076,Nandini Paneer,Nandini,96,96,200 g,10,45631,4.610000134,"21,293",0.0,0,Medium,In Stock,Mid Range,Excellent,87.4
+Blinkit,milk,284,2026-07-13T05:13:53.001519,714570,Organic Mandya Low Fat Paneer,Organic Mandya,152,160,200 g,2,45631,4.420000076,133,5.0,8,Low,Low Stock,Premium,Good,90.8
+Blinkit,milk,285,2026-07-13T05:13:55.443438,56323,Heritage Fresh Paneer,Heritage,101,120,200 g,5,45631,4.619999886,"19,226",15.83,19,Low,Low Stock,Mid Range,Excellent,119.01
+Blinkit,milk,286,2026-07-13T05:13:55.443756,423857,Mother Dairy Malai Paneer,Mother Dairy,92,122,200 g,3,45631,4.460000038,"9,602",24.59,30,Low,Low Stock,Mid Range,Good,133.78
+Blinkit,milk,287,2026-07-13T05:13:55.444053,580709,Sids Farm Malai Paneer,Sids Farm,140,140,200 g,6,45631,4.25,"1,609",0.0,0,Medium,In Stock,Mid Range,Good,78.0
+Blinkit,milk,288,2026-07-13T05:13:55.444331,335816,iD Soft and Creamy Paneer,iD,145,145,200 g,1,45631,4.380000114,"5,809",0.0,0,Low,Low Stock,Mid Range,Good,80.35
+Blinkit,milk,289,2026-07-13T05:13:55.444423,703472,Akshayakalpa Organic High Protein Paneer,Akshayakalpa Organic,173,173,200 g,2,45631,4.289999962,847,0.0,0,Low,Low Stock,Premium,Good,77.15
+Blinkit,milk,290,2026-07-13T05:13:55.444483,610197,Nutri Hatch Farm Fresh White Eggs,Nutri Hatch,60,60,6 pcs,8,45631,4.53000021,"10,629",0.0,0,Medium,In Stock,Mid Range,Excellent,87.6
+Blinkit,milk,291,2026-07-13T05:13:55.444723,487728,Table White White Eggs,Table White,110,145,10 pcs,4,45631,4.210000038,"90,139",24.14,35,Low,Low Stock,Mid Range,Good,126.98
+Blinkit,milk,292,2026-07-13T05:13:55.444918,557477,Licious White Protein Rich Eggs,Licious,177,196,12 pcs,13,45631,4.010000229,"9,223",9.69,19,Medium,In Stock,Premium,Good,90.73
+Blinkit,milk,293,2026-07-13T05:13:55.445001,498143,Licious Farm Fresh Classic White Protein Rich Eggs,Licious,90,99,6 pcs,13,45631,4.019999981,"23,897",9.09,9,Medium,In Stock,Mid Range,Good,94.08
+Blinkit,milk,294,2026-07-13T05:13:55.445076,480595,Jaya White Eggs - Pack of 30,Jaya,304,350,30 pcs,5,45631,4.449999809,"6,840",13.14,46,Low,Low Stock,Premium,Good,100.08
+Blinkit,milk,295,2026-07-13T05:13:55.445157,480950,Jaya White Eggs,Jaya,65,80,6 pcs,11,45631,4.46999979,"13,369",18.75,15,Medium,In Stock,Mid Range,Good,123.65
+Blinkit,milk,296,2026-07-13T05:13:58.027084,396899,Farm Made Free Range Eggs,Farm Made,154,159,6 pcs,15,45631,4.050000191,"20,600",3.14,5,Medium,In Stock,Premium,Good,79.58
+Blinkit,milk,297,2026-07-13T05:13:58.027767,610200,Nutri Hatch White Eggs,Nutri Hatch,110,110,12 pcs,6,45631,4.309999943,"4,353",0.0,0,Medium,In Stock,Mid Range,Good,80.7
+Blinkit,milk,298,2026-07-13T05:13:58.028065,710824,Farm Made Free Range Eggs 12 pcs,Farm Made,299,309,12 pcs,8,45631,3.99000001,"6,642",3.24,10,Medium,In Stock,Premium,Good,71.33
+Blinkit,milk,299,2026-07-13T05:13:58.028177,477483,Eggoz Nutrition White Protein Rich Eggs (30 pieces),Eggoz,387,459,30 pcs,4,45631,3.529999971,"31,022",15.69,72,Low,Low Stock,Premium,Good,82.63
+Blinkit,milk,300,2026-07-13T05:13:58.028296,164996,Hen Fruit -10 Max Protein Speciality Eggs,Hen Fruit,137,160,10 pcs,1,45631,3.960000038,"26,257",14.37,23,Low,Low Stock,Mid Range,Good,101.09
+Blinkit,milk,301,2026-07-13T05:13:58.028452,536090,Abhi Vitamin D3 White Protein Rich Eggs,Abhi,301,380,24 pcs,3,45631,4.320000172,"11,323",20.79,79,Low,Low Stock,Premium,Good,112.93
+Blinkit,milk,302,2026-07-13T05:13:58.028601,498145,Licious Brown Eggs,Licious,120,120,6 pcs,3,45631,3.920000076,"7,693",0.0,0,Low,Low Stock,Mid Range,Good,72.4
+Blinkit,milk,303,2026-07-13T05:13:58.028748,535906,Abhi Vitamin D3 White Protein Rich Eggs - 1 pack (6 pieces),Abhi,81,99,6 pcs,3,45631,4.440000057,"10,462",18.18,18,Low,Low Stock,Mid Range,Good,121.11
+Blinkit,milk,304,2026-07-13T05:13:58.028848,487729,Table White Eggs (6 pcs),Table White,66,85,6 pcs,2,45631,4.190000057,"67,032",22.35,19,Low,Low Stock,Mid Range,Good,125.2
+Blinkit,milk,305,2026-07-13T05:13:58.029010,477481,Eggoz Nutrition White Protein Rich Eggs (6 pieces),Eggoz,88,102,6 pcs,1,45631,3.950000048,"12,472",13.73,14,Low,Low Stock,Mid Range,Good,102.06
+Blinkit,milk,306,2026-07-13T05:13:58.029157,483705,Table White White Eggs,Table White,307,350,30 pcs,2,45631,3.420000076,"50,742",12.29,43,Low,Low Stock,Premium,Poor,77.63
+Blinkit,milk,307,2026-07-13T05:14:00.584586,346891,Suguna Delfrez Nutri White Protein Rich Eggs,Suguna Delfrez,164,192,12 pcs,3,45631,4.5,56,14.58,28,Low,Low Stock,Premium,Excellent,110.96
+Blinkit,milk,308,2026-07-13T05:14:00.584988,500291,dr Good Premium Fresh White Eggs,dr Good,300,300,30 pcs,2,45631,3.99000001,"4,361",0.0,0,Low,Low Stock,Premium,Good,64.8
+Blinkit,milk,309,2026-07-13T05:14:00.585206,345497,Hen Fruit -10 Farm Fresh No Antibiotics White Protein Rich Eggs,Hen Fruit,132,150,10 pcs,3,45631,3.730000019,"4,667",12.0,18,Low,Low Stock,Mid Range,Good,92.0
+Blinkit,milk,310,2026-07-13T05:14:00.585371,535907,Abhi Gold+ Brown Eggs,Abhi,103,115,6 pcs,2,45631,4.309999943,"12,092",10.43,12,Low,Low Stock,Mid Range,Good,101.91
+Blinkit,milk,311,2026-07-13T05:14:00.585453,403530,UPF Healthy Brown Eggs,UPF,446,499,30 pcs,1,45631,3.75,"4,166",10.62,53,Low,Low Stock,Premium,Good,73.94
+Blinkit,milk,312,2026-07-13T05:14:00.585654,165000,Hen Fruit -30 Farm Fresh No Antibiotics White Protein Rich Eggs,Hen Fruit,374,425,30 pcs,1,45631,3.519999981,"7,379",12.0,51,Low,Low Stock,Premium,Good,75.7
+Blinkit,milk,313,2026-07-13T05:14:00.585817,373594,UPF Healthy Brown Eggs - 6 pieces,UPF,103,114,6 pcs,2,45631,3.799999952,"14,134",9.65,11,Low,Low Stock,Mid Range,Good,90.15
+Blinkit,milk,314,2026-07-13T05:14:00.586098,711228,UPF Cage Free Brown Eggs,UPF,135,135,6 pcs,3,45631,3.180000067,"1,136",0.0,0,Low,Low Stock,Mid Range,Poor,56.85
+Blinkit,milk,315,2026-07-13T05:14:00.586257,74360,Delfrez Nutri White Protein Rich Eggs,Delfrez,81,96,6 pcs,1,45631,4.329999924,696,15.62,15,Low,Low Stock,Mid Range,Good,113.79
+Blinkit,milk,316,2026-07-13T05:14:00.586330,480603,Jaya Brown Eggs,Jaya,76,90,6 pcs,1,45631,3.789999962,862,15.56,14,Low,Low Stock,Mid Range,Good,103.12
+Blinkit,milk,317,2026-07-13T05:14:00.586732,373593,UPF Healthy White Protein Rich Eggs,UPF,90,99,6 pcs,1,45631,3.849999905,"2,340",9.09,9,Low,Low Stock,Mid Range,Good,90.68
+Blinkit,milk,318,2026-07-13T05:14:00.586928,564235,Abhi Nutri+ with Immunity Boosters Speciality Eggs,Abhi,76,89,6 pcs,1,45631,4.409999847,"2,687",14.61,13,Low,Low Stock,Mid Range,Good,113.62
+Blinkit,milk,319,2026-07-13T05:14:03.164232,487641,Hen Fruit Protein Rich Eggs - 6 Pieces,Hen Fruit,86,99,6 pcs,1,45631,3.789999962,"1,444",13.13,13,Low,Low Stock,Mid Range,Good,97.76
+Blinkit,milk,320,2026-07-13T05:14:03.164602,477128,Suguna Delfrez Vitamin D Speciality Eggs,Suguna Delfrez,87,105,6 pcs,1,45631,3.640000105,165,17.14,18,Low,Low Stock,Mid Range,Good,102.73
+Blinkit,milk,321,2026-07-13T05:14:03.164819,33277,SKM Best Eggs Plus Speciality Eggs,SKM Best Eggs,96,96,6 pcs,1,45631,4.340000153,657,0.0,0,Low,Low Stock,Mid Range,Good,82.0
+Blinkit,milk,322,2026-07-13T05:14:03.165008,772400,Abhi Dose White Speciality Eggs,Abhi,105,125,6 pcs,2,45631,3.720000029,133,16.0,20,Low,Low Stock,Mid Range,Good,101.15
+Blinkit,milk,323,2026-07-13T05:14:03.165214,477127,Suguna Delfrez Heart Speciality Eggs with Omega 3,Suguna Delfrez,95,110,6 pcs,1,45631,4.230000019,46,13.64,15,Low,Low Stock,Mid Range,Good,107.13
+Blinkit,milk,324,2026-07-13T05:14:03.165455,307780,Hen Fruit -6 Farm Fresh Antibiotic Free White Protein Rich Eggs,Hen Fruit,87,95,6 pcs,1,45631,3.519999981,"3,476",8.42,8,Low,Low Stock,Mid Range,Good,82.89
+Blinkit,milk,325,2026-07-13T05:14:03.165615,424416,Yellaki Banana,,71,86,500 g,29,45631,,,17.44,15,High,In Stock,Mid Range,Excellent,
+Blinkit,milk,326,2026-07-13T05:14:03.165738,10183,Red Banana,,67,83,500 g,5,45631,,,19.28,16,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,327,2026-07-13T05:14:03.165968,530158,Onion (Pyaz),Freshbury,38,45,1 kg,50,45631,,,15.56,7,High,In Stock,Budget,Excellent,
+Blinkit,milk,328,2026-07-13T05:14:03.166096,354997,Potato (Aloo),,26,33,1 kg,50,45631,,,21.21,7,High,In Stock,Budget,Excellent,
+Blinkit,milk,329,2026-07-13T05:14:03.166202,229627,Lemon,Freshbury,19,24,200 g,2,45631,,,20.83,5,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,330,2026-07-13T05:14:03.166277,366032,Desi Tomato (Tamatar),,15,19,500 g,35,45631,,,21.05,4,High,In Stock,Budget,Excellent,
+Blinkit,milk,331,2026-07-13T05:14:05.705902,242284,Ooty Carrot (Gajar),,33,42,250 g,33,45631,,,21.43,9,High,In Stock,Budget,Excellent,
+Blinkit,milk,332,2026-07-13T05:14:05.706282,609555,Organically Grown Tomato (Desi) (Tamatar),Bhoomi Farms,39,48,500 g,17,45631,,,18.75,9,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,333,2026-07-13T05:14:05.706575,367909,Hybrid Tomato (Tamatar),,16,19,500 g,35,45631,,,15.79,3,High,In Stock,Budget,Excellent,
+Blinkit,milk,334,2026-07-13T05:14:05.706739,365421,Coriander (Without Roots) (Dhaniya),,29,36,100 g,31,45631,,,19.44,7,High,In Stock,Budget,Excellent,
+Blinkit,milk,335,2026-07-13T05:14:05.706919,312160,Spinach (without roots) (Palak),,39,47,200 g,17,45631,,,17.02,8,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,336,2026-07-13T05:14:05.707392,508001,Peeled Garlic,Freshbury,62,80,100 g,19,45631,,,22.5,18,Medium,In Stock,Mid Range,Excellent,
+Blinkit,milk,337,2026-07-13T05:14:05.707510,270200,Curry Leaves (Kadi Patta),,8,9,50 g,8,45631,,,11.11,1,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,338,2026-07-13T05:14:05.707611,599240,Organically Grown- Lady Finger (Bhindi),Freshbury,34,42,250 g,18,45631,,,19.05,8,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,339,2026-07-13T05:14:05.707731,292962,"Assorted Capsicum - (Red, Yellow, Green)",Freshbury,90,114,3 pcs,3,45631,,,21.05,24,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,340,2026-07-13T05:14:05.708106,602672,Organically Grown Coriander (without Roots) (Dhaniya Patta),Siya Fruits And Vegetables,35,41,100 g,7,45631,,,14.63,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,341,2026-07-13T05:14:05.708300,14784,Green Pumpkin (Hara Kaddu),,44,55,400 g,5,45631,,,20.0,11,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,342,2026-07-13T05:14:05.708428,602184,Organically Grown Chilli (Hari Mirch),Green Earth,20,25,100 g,11,45631,,,20.0,5,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,343,2026-07-13T05:14:08.235930,23376,Drumstick (Sahjan),,39,47,2 pcs,8,45631,,,17.02,8,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,344,2026-07-13T05:14:08.236709,602591,"Organically Grown Green Cucumber (Khira, Kheera)",Green Earth,38,45,500 g,4,45631,,,15.56,7,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,345,2026-07-13T05:14:08.236898,632536,Organically Grown Green Capsicum,Green Earth,51,64,250 g,11,45631,,,20.31,13,Medium,In Stock,Mid Range,Excellent,
+Blinkit,milk,346,2026-07-13T05:14:08.237239,599305,Organically Grown Bottle Gourd (Lauki),Freshbury,46,56,400 g,6,45631,,,17.86,10,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,347,2026-07-13T05:14:08.237309,602590,Organically Grown Tomato (Hybrid) (Tamatar),Siya Fruits And Vegetables,48,61,500 g,4,45631,,,21.31,13,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,348,2026-07-13T05:14:08.237364,599226,Organically Grown Potato (Aloo),UB Organic,65,81,1 kg,6,45631,,,19.75,16,Medium,In Stock,Mid Range,Excellent,
+Blinkit,milk,349,2026-07-13T05:14:08.237416,28390,Safal Frozen Green Peas,Safal,116,135,500 g,14,45631,4.690000057,"67,228",14.07,19,Medium,In Stock,Mid Range,Excellent,116.14
+Blinkit,milk,350,2026-07-13T05:14:08.237500,327128,Green Peas (Peeled),Freshbury,162,202,200 g,7,45631,,,19.8,40,Medium,In Stock,Premium,Excellent,
+Blinkit,milk,351,2026-07-13T05:14:08.237717,602177,Organically Grown Beetroot (Chukandar),Green Earth,35,41,250 g,8,45631,,,14.63,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,352,2026-07-13T05:14:08.237796,723566,Ooty Potato,Freshbury,45,56,500 g,2,45631,,,19.64,11,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,353,2026-07-13T05:14:08.237899,89997,Ripe Peeled Jackfruit,Freshbury,118,139,250 g,2,45631,,,15.11,21,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,354,2026-07-13T05:14:08.238049,355016,Green Lettuce,,28,33,100 g,1,45631,,,15.15,5,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,355,2026-07-13T05:14:10.799330,663455,Organically Grown Ooty Carrot,Bhoomi Farms,58,71,250 g,3,45631,,,18.31,13,Low,Low Stock,Mid Range,Excellent,
+Blinkit,milk,356,2026-07-13T05:14:10.800215,525536,Whole Farm Premium Red Chilli Whole,Whole Farm,48,75,100 g,1,45631,4.659999847,"47,463",36.0,27,Low,Low Stock,Budget,Excellent,162.8
+Blinkit,milk,357,2026-07-13T05:14:10.800522,603092,Organically Grown Ring Beans,Green Earth,44,50,250 g,10,45631,,,12.0,6,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,358,2026-07-13T05:14:10.800692,169115,Baby Onion (Peeled),Freshbury,36,46,250 g,5,45631,,,21.74,10,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,359,2026-07-13T05:14:10.800791,502588,Pumpkin Yellow (Cut),Freshbury,40,47,200 g,8,45631,,,14.89,7,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,360,2026-07-13T05:14:10.800889,603110,Organically Grown Cabbage (Patta Gobhi),Shatayushi Farms,47,56,400 g,1,45631,,,16.07,9,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,361,2026-07-13T05:14:10.801009,535900,Dill Leaves (Shepu) (Soya),,13,16,100 g,1,45631,,,18.75,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,362,2026-07-13T05:14:10.801074,539908,Drumstick Leaves (Moringa Leaves),,18,21,100 g,5,45631,,,14.29,3,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,363,2026-07-13T05:14:10.801129,445281,Green Moong Sprouts,,46,59,150 g,5,45631,,,22.03,13,Low,Low Stock,Budget,Excellent,
+Blinkit,milk,364,2026-07-13T05:14:10.801243,196281,Mixed Sprouts,Freshbury,46,56,200 g,7,45631,,,17.86,10,Medium,In Stock,Budget,Excellent,
+Blinkit,milk,365,2026-07-13T05:14:10.801306,741339,Ozone Washed Light Green Chilli (Pesticide Cleaned),Freshbury,19,24,100 g,10,45631,,,20.83,5,Medium,In Stock,Budget,Excellent,
