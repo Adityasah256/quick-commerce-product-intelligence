@@ -1,104 +1,201 @@
 # 🛒 Quick Commerce Product Intelligence
 
-An end-to-end Product Analytics project that collects, processes, and analyzes real-time product data from India's leading quick-commerce platforms.
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-v1.1.0-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Blinkit-yellow?style=for-the-badge)
+
+An end-to-end **Product Analytics Platform** that collects, processes, analyzes, and visualizes real-time product data from India's leading Quick Commerce platforms.
+
+The project combines **Web Scraping**, **Data Engineering**, **Feature Engineering**, **Product Analytics**, and **Business Intelligence** into a single analytics workflow capable of generating actionable insights from real-world e-commerce data.
 
 > **Current Platform:** Blinkit  
-> **Upcoming:** Zepto | Swiggy Instamart
+> **Upcoming Platforms:** Zepto • Swiggy Instamart
 
 ---
 
 # 🎯 Project Objective
 
-Build a Product Intelligence platform capable of collecting, processing, and analyzing product data to answer business questions such as:
+Modern quick-commerce platforms generate enormous amounts of product data every day.
 
-- Which brands dominate search results?
-- Which products provide the best value?
-- How are products priced across brands?
-- Which products have the highest inventory?
-- Which products receive the highest customer ratings?
-- How does product assortment vary across brands?
+This project aims to build a scalable Product Intelligence platform capable of answering business questions such as:
 
-## Terminal Execution
+- Which brands dominate a product category?
+- How are products priced across competitors?
+- Which products provide the highest customer value?
+- Which products have the highest inventory availability?
+- How are discounts distributed across the catalogue?
+- Which price segments dominate the assortment?
+- Which brands consistently maintain higher customer ratings?
 
-This project combines **Web Scraping, Data Engineering, Feature Engineering, Data Analysis, and Business Intelligence** into a single analytics workflow.
+The long-term vision is to evolve this into a multi-platform intelligence platform capable of monitoring Blinkit, Zepto, and Swiggy Instamart for competitive product analysis.
 
-![Terminal Output - Part 1](assets/terminal_output_1.png)
+---
 
-### Product Collection Progress
+# 🏗️ Analytics Pipeline
 
-![Terminal Output - Part 2](assets/terminal_output_2.png)
+```text
+                   User Search
+
+                        │
+
+                        ▼
+
+             Playwright Web Scraper
+
+                        │
+
+                        ▼
+
+             Blinkit Search API Capture
+
+                        │
+
+                        ▼
+
+                Raw JSON Dataset
+
+                        │
+
+                        ▼
+
+            Processed Product Dataset
+
+                        │
+
+                        ▼
+
+             Feature Engineering Engine
+
+                        │
+
+                        ▼
+
+             Analytics Dataset Builder
+
+                        │
+
+                        ▼
+
+            Product Analytics Engine
+
+                        │
+
+                        ▼
+
+           Automated Visual Analytics
+
+                        │
+
+                        ▼
+
+              Business Intelligence
+```
 
 ---
 
 # 🚀 Current Features
 
-## ✅ Dynamic Product Search
+## 🌐 Data Collection
 
-Search any product directly from the terminal.
+- ✅ Dynamic Product Search
+- ✅ Automated Browser Interaction
+- ✅ Infinite Scrolling
+- ✅ Playwright API Interception
+- ✅ Duplicate Product Removal
+- ✅ Structured Data Extraction
 
-Example:
+---
+
+## ⚙️ Data Engineering
+
+- ✅ Raw JSON Export
+- ✅ Processed CSV Export
+- ✅ Modular ETL Pipeline
+- ✅ Reusable Data Processing
+- ✅ Analytics Dataset Generation
+
+---
+
+## 🧠 Feature Engineering
+
+Automatically generates business-ready analytical features including:
+
+- ✅ Discount Percentage
+- ✅ Savings
+- ✅ Inventory Bucket
+- ✅ Stock Status
+- ✅ Price Segment
+- ✅ Rating Bucket
+- ✅ Value Score (Custom KPI)
+
+---
+
+## 📈 Product Analytics Engine
+
+Automatically generates:
+
+- ✅ Executive Summary
+- ✅ Brand Analysis
+- ✅ Pricing Analysis
+- ✅ Inventory Analysis
+- ✅ Customer Insights
+- ✅ Value Analysis
+- ✅ Business Recommendations
+
+Output:
 
 ```text
-Enter product to search:
-milk
+reports/
+└── analytics_report.txt
 ```
 
 ---
 
-## ✅ Automated Browser Interaction
+## 📊 Automated Visual Analytics
 
-- Opens Blinkit automatically
-- Searches for the entered keyword
-- Performs infinite scrolling
-- Collects all available products
+Automatically generates high-resolution business charts.
 
----
+Current Visualizations:
 
-## ✅ API Interception
+- ✅ Brand Distribution
+- ✅ Price Distribution
+- ✅ Inventory Distribution
+- ✅ Rating Distribution
+- ✅ Discount Distribution
+- ✅ Value Score Distribution
+- ✅ Price Segment Distribution
 
-Instead of scraping HTML, the project captures Blinkit's internal Search API responses using Playwright.
+Every visualization includes:
 
-This makes the scraper:
-
-- Faster
-- More reliable
-- Easier to maintain
-
----
-
-## ✅ Data Cleaning
-
-The scraper automatically:
-
-- Removes duplicate products
-- Extracts required fields
-- Creates a normalized dataset
+- Automated chart generation
+- Dynamic business insights
+- High-resolution PNG export
+- Consistent styling
+- Portfolio-ready output
 
 ---
 
-## ✅ JSON Export
+# 📷 Project Preview
 
-Raw API response is stored as:
+## Terminal Execution
 
-```text
-data/raw/milk_products.json
-```
+The project executes the complete analytics workflow directly from the terminal.
+
+![Terminal Output - Part 1](assets/terminal_output_1.png)
 
 ---
 
-## ✅ CSV Export
+## Product Collection Progress
 
-Processed product data is exported as:
+![Terminal Output - Part 2](assets/terminal_output_2.png)
 
-```text
-data/processed/milk_products.csv
-```
+---
 
-Ready for analysis using Pandas or Power BI.
+## Sample Dataset
 
-### Sample Dataset
-
-Below is a preview of the processed dataset generated by the scraper.
+The processed dataset generated after ETL.
 
 ![Sample Dataset](assets/sample_dataset.png)
 
@@ -111,92 +208,257 @@ quick-commerce-product-intelligence/
 
 │
 ├── analysis/
-│   └── product_analysis.py
+│   ├── feature_engineering.py
+│   ├── product_analysis.py
+│   └── visualizations.py
+│
+├── assets/
+│   ├── charts/
+│   │   ├── brand_distribution.png
+│   │   ├── price_distribution.png
+│   │   ├── inventory_distribution.png
+│   │   ├── rating_distribution.png
+│   │   ├── discount_distribution.png
+│   │   ├── value_score_distribution.png
+│   │   └── price_segment_distribution.png
+│   │
+│   ├── terminal_output_1.png
+│   ├── terminal_output_2.png
+│   └── sample_dataset.png
+│
+├── data/
+│   ├── raw/
+│   │   └── milk_products.json
+│   │
+│   ├── processed/
+│   │   └── milk_products.csv
+│   │
+│   └── final/
+│       └── analytics_dataset.csv
+│
+├── reports/
+│   └── analytics_report.txt
 │
 ├── scrapers/
 │   └── blinkit_capture.py
 │
-├── data/
-│   ├── raw/
-│   │     milk_products.json
-│   │
-│   ├── processed/
-│   │     milk_products.csv
-│   │
-│   └── final/
-│
 ├── docs/
-│
 ├── notebooks/
-│
 ├── utils/
 │
 ├── README.md
+├── CHANGELOG.md
+├── LICENSE
 ├── requirements.txt
 └── .gitignore
 ```
 
 ---
 
-# 📊 Data Fields Collected
+# 📊 Product Analytics Engine
 
-Each product contains information such as:
+After feature engineering, the analytics engine performs a complete analysis of the product catalogue.
 
-- Platform
-- Search Keyword
-- Product ID
-- Product Name
-- Brand
-- Price
-- MRP
-- Unit
-- Inventory
-- Merchant ID
-- Rating
-- Rank
-- Scraped Timestamp
+Generated Sections:
+
+- Executive Summary
+- Brand Analysis
+- Pricing Analysis
+- Inventory Analysis
+- Customer Insights
+- Value Analysis
+- Business Recommendations
+
+The analytics report is automatically generated after execution.
+
+```text
+reports/
+└── analytics_report.txt
+```
 
 ---
 
-# 📊 Sample Output
+## Sample Executive Summary
 
-The scraper generates two files after every successful execution:
+```text
+Total Products      : 365
+Total Brands        : 94
+Average Price       : ₹104.10
+Average Rating      : 4.36
+Average Discount    : 9.47%
+Average Inventory   : 7.15
+```
 
-- **Raw JSON** → `data/raw/milk_products.json`
-- **Processed CSV** → `data/processed/milk_products.csv`
+---
 
-The processed dataset is ready for further analysis using Pandas, SQL, or Power BI.
+# 📊 Automated Visual Analytics
+
+The Visual Analytics Engine converts the analytics dataset into business-ready visualizations.
+
+Generated automatically:
+
+- Brand Distribution
+- Price Distribution
+- Inventory Distribution
+- Rating Distribution
+- Discount Distribution
+- Value Score Distribution
+- Price Segment Distribution
+
+Every chart is:
+
+- Automatically generated
+- Saved as PNG
+- High Resolution (400 DPI)
+- Accompanied by dynamic business insights
+
+Output Directory:
+
+```text
+assets/
+└── charts/
+```
+
+---
+
+# 📸 Sample Visualizations
+
+| Brand Distribution | Price Distribution |
+|--------------------|-------------------|
+| ![](assets/charts/brand_distribution.png) | ![](assets/charts/price_distribution.png) |
+
+| Discount Distribution | Price Segment Distribution |
+|------------------------|---------------------------|
+| ![](assets/charts/discount_distribution.png) | ![](assets/charts/price_segment_distribution.png) |
+---
+
+# 📁 Generated Outputs
+
+Running the complete pipeline produces the following outputs:
+
+| Output | Description |
+|---------|-------------|
+| `milk_products.json` | Raw API response |
+| `milk_products.csv` | Cleaned product dataset |
+| `analytics_dataset.csv` | Feature-engineered dataset |
+| `analytics_report.txt` | Business analytics report |
+| `assets/charts/*.png` | Automated visualizations |
+
+---
+
+# 🔄 End-to-End Workflow
+
+```text
+Product Search
+
+        │
+
+        ▼
+
+Blinkit Web Scraping
+
+        │
+
+        ▼
+
+Search API Interception
+
+        │
+
+        ▼
+
+Raw JSON Dataset
+
+        │
+
+        ▼
+
+Processed CSV Dataset
+
+        │
+
+        ▼
+
+Feature Engineering
+
+        │
+
+        ▼
+
+Analytics Dataset
+
+        │
+
+        ▼
+
+Product Analytics Report
+
+        │
+
+        ▼
+
+Visual Analytics
+
+        │
+
+        ▼
+
+Business Insights
+```
+
+---
 
 # ⚙️ Tech Stack
 
-### Programming
+## Programming Language
 
-- Python
-
-### Libraries
-
-- Playwright
-- Pandas
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-
-### Upcoming
-
-- Power BI
-- SQLite
+- Python 3.13
 
 ---
 
-# ▶️ How to Run
+## Data Collection
 
-## Clone Repository
+- Playwright
+- Blinkit Search API
+
+---
+
+## Data Processing
+
+- Pandas
+
+---
+
+## Data Visualization
+
+- Matplotlib
+
+---
+
+## Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+
+---
+
+## Upcoming Technologies
+
+- Power BI
+- Zepto Search API
+- Swiggy Instamart Search API
+
+---
+
+# ▶️ Installation
+
+## Clone the Repository
 
 ```bash
 git clone https://github.com/Adityasah256/quick-commerce-product-intelligence.git
+
+cd quick-commerce-product-intelligence
 ```
 
 ---
@@ -217,7 +479,9 @@ playwright install
 
 ---
 
-## Run Scraper
+# 🚀 Usage
+
+## Step 1 — Run the Scraper
 
 ```bash
 python scrapers/blinkit_capture.py
@@ -227,172 +491,394 @@ Example:
 
 ```text
 Enter product to search:
+
 milk
+```
+
+This generates:
+
+- Raw JSON dataset
+- Processed CSV dataset
+
+---
+
+## Step 2 — Feature Engineering
+
+```bash
+python analysis/feature_engineering.py
+```
+
+This generates:
+
+```text
+data/final/
+└── analytics_dataset.csv
 ```
 
 ---
 
-# 📈 Current Workflow
+## Step 3 — Product Analytics
+
+```bash
+python analysis/product_analysis.py
+```
+
+This generates:
 
 ```text
-User enters product
-
-        │
-
-        ▼
-
-Blinkit opens automatically
-
-        │
-
-        ▼
-
-Search executed
-
-        │
-
-        ▼
-
-Infinite scrolling
-
-        │
-
-        ▼
-
-Search API captured
-
-        │
-
-        ▼
-
-Product extraction
-
-        │
-
-        ▼
-
-Duplicate removal
-
-        │
-
-        ▼
-
-Structured dataset
-
-        │
-
-        ▼
-
-JSON + CSV Export
+reports/
+└── analytics_report.txt
 ```
+
+---
+
+## Step 4 — Visual Analytics
+
+```bash
+python analysis/visualizations.py
+```
+
+This automatically generates:
+
+- Brand Distribution
+- Price Distribution
+- Inventory Distribution
+- Rating Distribution
+- Discount Distribution
+- Value Score Distribution
+- Price Segment Distribution
+
+Output:
+
+```text
+assets/charts/
+```
+
+---
+
+# 📦 Generated Outputs
+
+After executing the complete pipeline, the following artifacts are produced.
+
+| File | Description |
+|------|-------------|
+| `milk_products.json` | Raw Blinkit Search API response |
+| `milk_products.csv` | Cleaned product dataset |
+| `analytics_dataset.csv` | Feature engineered dataset |
+| `analytics_report.txt` | Automated business report |
+| `brand_distribution.png` | Brand visualization |
+| `price_distribution.png` | Price visualization |
+| `inventory_distribution.png` | Inventory visualization |
+| `rating_distribution.png` | Rating visualization |
+| `discount_distribution.png` | Discount visualization |
+| `value_score_distribution.png` | Value Score visualization |
+| `price_segment_distribution.png` | Price Segment visualization |
 
 ---
 
 # 📌 Current Project Status
 
-✅ Dynamic Search
+## ✅ Sprint 1 — Data Collection
 
-✅ Infinite Scroll
-
-✅ API Interception
-
-✅ Modular Scraper
-
-✅ JSON Export
-
-✅ CSV Export
-
-✅ GitHub Repository
-
-✅ ETL Pipeline
+- Dynamic Product Search
+- Infinite Scrolling
+- Playwright API Interception
+- Duplicate Removal
+- JSON Export
+- CSV Export
 
 ---
 
-# 🚀 Roadmap
+## ✅ Sprint 2 — Feature Engineering
 
-## Version 1.1
-
-- Feature Engineering
-- Discount %
-- Price Segmentation
-- Inventory Buckets
+- Discount Percentage
+- Savings
+- Inventory Bucket
 - Stock Status
+- Price Segment
+- Rating Bucket
+- Value Score
 
 ---
 
-## Version 1.2
+## ✅ Sprint 3 — Product Analytics
 
-- Multi-category scraping
-- Bread
-- Eggs
-- Paneer
-- Chips
-- Rice
-- Beverages
+- Executive Summary
+- Brand Analysis
+- Pricing Analysis
+- Inventory Analysis
+- Customer Insights
+- Value Analysis
+- Business Recommendations
 
 ---
 
-## Version 2.0
+## ✅ Sprint 3.5 — Automated Visual Analytics
 
-Multi-platform support
+- Brand Distribution
+- Price Distribution
+- Inventory Distribution
+- Rating Distribution
+- Discount Distribution
+- Value Score Distribution
+- Price Segment Distribution
+
+---
+
+## 🔄 Next Milestone
+
+Sprint 4 — Interactive Power BI Dashboard
+
+---
+
+# 🗺️ Project Roadmap
+
+## ✅ Sprint 1
+
+### Data Collection Pipeline
+
+- Dynamic Search
+- Infinite Scroll
+- API Interception
+- ETL Pipeline
+
+---
+
+## ✅ Sprint 2
+
+### Feature Engineering Engine
+
+- Analytical Feature Generation
+- KPI Creation
+- Dataset Standardization
+
+---
+
+## ✅ Sprint 3
+
+### Product Analytics Engine
+
+- Executive Summary
+- Business Insights
+- Recommendation Engine
+
+---
+
+## ✅ Sprint 3.5
+
+### Automated Visual Analytics
+
+- Business-ready Charts
+- Dynamic Insight Generation
+- PNG Export Engine
+
+---
+
+## 🔄 Sprint 4
+
+### Interactive Power BI Dashboard
+
+- Executive Dashboard
+- KPI Cards
+- Filters & Slicers
+- Interactive Visualizations
+- Product Intelligence Dashboard
+
+---
+
+## ⏳ Sprint 5
+
+### Multi-platform Intelligence
+
+Support for:
 
 - Blinkit
 - Zepto
 - Swiggy Instamart
 
----
+Comparative Analytics:
 
-## Version 2.5
-
-Historical Price Tracking
-
-- Price changes
-- Inventory changes
-- Ranking changes
+- Price Comparison
+- Assortment Comparison
+- Brand Comparison
+- Discount Comparison
 
 ---
 
-## Version 3.0
+## ⏳ Sprint 6
 
-Interactive Power BI Dashboard
+### Historical Product Intelligence
 
-- Brand Analysis
-- Price Analysis
-- Search Ranking
-- Inventory Distribution
-- Customer Ratings
-- Product Assortment
-- Business Insights
+- Daily Snapshots
+- Price Tracking
+- Inventory Tracking
+- Rank Tracking
+- Trend Analysis
 
 ---
 
-# 💡 Business Use Cases
+# 💼 Business Use Cases
 
-This project can be used for:
+This project demonstrates how Product Analytics can be applied to solve real-world business problems in the Quick Commerce industry.
+
+The platform can be used for:
 
 - Product Analytics
 - Competitive Intelligence
-- Pricing Analysis
+- Pricing Strategy
 - Assortment Analysis
-- Category Performance
 - Inventory Monitoring
+- Customer Rating Analysis
+- Category Benchmarking
 - Business Intelligence
-- Data Visualization
+- Market Research
+- Retail Analytics
+
+---
+
+# 🌟 Key Highlights
+
+- ✅ Real-time product data collection using Playwright
+- ✅ API-based data extraction for reliable scraping
+- ✅ Modular ETL pipeline
+- ✅ Automated Feature Engineering
+- ✅ Product Analytics Engine
+- ✅ Automated Visual Analytics
+- ✅ Dynamic business insight generation
+- ✅ High-resolution chart exports
+- ✅ Scalable architecture for multi-platform analytics
+
+---
+
+# 📊 Business Questions Answered
+
+The platform automatically answers questions such as:
+
+- Which brands dominate a product category?
+- Which products provide the best customer value?
+- How are products distributed across price segments?
+- Which products receive the highest ratings?
+- How are discounts distributed across the catalogue?
+- Which inventory bucket contains the majority of products?
+- Which brands maintain the largest product assortment?
+- Which products should be prioritized for promotional campaigns?
+
+---
+
+# 🔮 Future Enhancements
+
+## 🔄 Sprint 4 — Interactive Power BI Dashboard
+
+- Executive KPI Dashboard
+- Product Performance Dashboard
+- Brand Performance Dashboard
+- Pricing Dashboard
+- Inventory Dashboard
+- Customer Rating Dashboard
+- Interactive Filters & Slicers
+
+---
+
+## ⏳ Sprint 5 — Multi-platform Intelligence
+
+Platform Support:
+
+- Blinkit
+- Zepto
+- Swiggy Instamart
+
+Comparative Analytics:
+
+- Price Comparison
+- Brand Comparison
+- Rating Comparison
+- Discount Comparison
+- Assortment Comparison
+
+---
+
+## ⏳ Sprint 6 — Historical Product Intelligence
+
+- Daily Product Snapshots
+- Price Tracking
+- Inventory Tracking
+- Product Ranking Trends
+- Discount Tracking
+- Historical Analytics Dashboard
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and feature requests are always welcome.
+
+If you'd like to contribute:
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push the branch
+5. Open a Pull Request
+
+---
+
+# 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the `LICENSE` file for more details.
 
 ---
 
 # 👨‍💻 Author
 
-**Aditya Sah**
+## Aditya Sah
 
-Aspiring Product Analyst | Data Analyst
+**Aspiring Product Analyst | Data Analyst**
 
-GitHub:
+Passionate about building data-driven products using Product Analytics, Automation, and Business Intelligence.
+
+### Connect with me
+
+**GitHub**
+
 https://github.com/Adityasah256
 
-LinkedIn:
+**LinkedIn**
+
 https://www.linkedin.com/in/aditya-sah07
 
 ---
 
-⭐ If you found this project interesting, feel free to star the repository!
+# ⭐ Support the Project
+
+If you found this project useful, consider:
+
+- ⭐ Starring the repository
+- 🍴 Forking the project
+- 💡 Suggesting improvements
+- 🤝 Sharing your feedback
+
+Your support motivates further development and continuous improvement.
+
+---
+
+# 🚀 Current Project Status
+
+### ✅ Completed
+
+- Playwright-powered Blinkit Scraper
+- Modular ETL Pipeline
+- Feature Engineering Engine
+- Product Analytics Engine
+- Automated Visual Analytics
+
+### 🔄 Currently Working On
+
+**Sprint 4 — Interactive Power BI Dashboard**
+
+Building an interactive dashboard with KPIs, filters, business insights, and executive-level visualizations.
+
+---
+
+> **Quick Commerce Product Intelligence** is an ongoing Product Analytics portfolio project focused on building a scalable analytics platform for India's quick-commerce ecosystem.
